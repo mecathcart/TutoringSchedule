@@ -1,0 +1,1000 @@
+Student Name,Student ID#,Enrollment,Tutor1,Day1,Time1,Tutor2,Day2,Time2,T1Room,T2Room,T1Name,T2Name
+"Abdallah, Hamzeh Kamal Kamel",702400096,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Acar, Ismet",702386617,IV/B-IV/D / FP|,EL,M,1:00,JB,W,4:00,0,0,Elizabeth Lee,Jason Bowser
+"Acar, Muhsin",702386622,ALCS/D-EAPV/A / FP|,KA,M,1:00,XI1,MW,3:00,0,0,Kathryn Britton,Cynthia Funk
+"Aci, Murat",702386623,ALCS/E-IV/D / FP|,CS,T,1:00,XCg,W,1:00,0,0,Candise Leonard-Schmidling,Nancy Turner
+"Ai, Linkai",702356427,"ABCS-GRE/GMAT Prep / FP|-RET III16, COMP-I15; JJ",-,-,-,-,-,-,0,0,-,-
+"Akmaz, Emre",702386610,IV/A-V/B / FP|,EL,T,1:00,XG1,MW,4:00,0,0,Elizabeth Lee,Rosana Dempsey
+"Al Afaliq, Abdullah Ibrahim A",702386062,DRAMA-EAPVI/E / FP|O,-,-,-,SC,R,1:00,0,0,-,Sarah Cornell
+"Al Alshikh, Abdullah Ali A",702382546,IV/A-IV/C / FP|,JB,T,2:00,XS1,TR,1:00,0,0,Jason Bowser,Debra Darrell Wolf
+"Al Dawood, Ali Abdulelah A",702386069,EAPVI/E-EAPVI/B / FP|S,DW,T,4:00,-,-,-,0,0,Debra Darrell Wolf,-
+"Al Jarbou, Suliman Jarbou S",702382738,OB-IV/A / FP|,XCf,T,5:00,XB1,TR,1:00,0,0,Nancy Turner,Chris Pinkerton
+"Al Khonaizi, Mohammad Nezar M",702386067,NONE-EAP 1 / FP|BRIDGE-T,KH,M,1:00,-,-,-,0,0,To be assigned,-
+"Al Muammar, Fahad Ali M",702385256,-ALCS/E--IV/A / FP|,-,-,-,-,-,-,0,0,-,-
+"Al Rabah, Maryam Mohammed A",702351396,IIIB-IIB / LP|,-,-,-,-,-,-,0,0,-,-
+"Al Sahl, Malak Saad M",702385796,I-I / LP|,-,-,-,-,-,-,0,0,-,-
+"Al Sarhan, Abdulelah Salim I",702349148,AOB/B-IV/B / FP|,NS,M,2:00,NS,W,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Al Shamrani, Majed Ahmed A",702383245,EAPV/B-V/C / FP|M,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Al Zuria, Ali  Hassan M",702386063,EAPVI/B-EAP 1 / FP|O,EH,T,1:00,-,-,-,0,0,Elaine Heyden,-
+"Alabbad, Bassam Hussain A",702386064,DRAMA-EAPVI/E / FP|Q,-,-,-,TG,R,1:00,0,0,-,Thomas Gething
+"Alajmi, Fahad S F F",702374219,IV/A-IV/C / FP|,NS,M,2:00,NS,W,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Alajmi, Shafi M SH H",702382979,FILM-V/E / FP|,KG,M,3:00,JB,W,2:00,0,0,Kristin Grant,Jason Bowser
+"Alammar, Abdulrazaq Mansour I",702341762,ALCS/E-V/A / FP|,RP,T,3:00,RD,R,2:00,0,0,Robert Panadero,Rosana Dempsey
+"Alamri, Omar Abdullah M",702383240,1960s/A-EAPVI/B / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Alanezi, Munayfah Khalaf A",702386927,IIA-IIA / LP|,-,-,-,-,-,-,0,0,-,-
+"Alawad, Abdulmohsen Fahad A",702383644,OB-IV/A / FP|,KA,M,10:30,XB1,TR,1:00,0,0,Kathryn Britton,Chris Pinkerton
+"Albaddah, Hassan M H M",702382344,ALCS/E-IV/C / FP|,KH,M,2:00,RP,W,3:00,0,0,To be assigned,Robert Panadero
+"Albalawi, Mohammed Mushahhin F",702406371,IV/D-IIIA / FP|,JA,W,5:00,CM,R,5:00,0,0,Janice Thompson,George Thompson
+"Albaqshi, Muntathir Jawad M",702383255,EAPVI/C-VI/A / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Albariqi, Awadh Abdullah A",702384631,IIIB-IIC / FP|,DW,M,1:00,XS1,TR,1:00,0,0,Debra Darrell Wolf,Debra Darrell Wolf
+"Albaze, Abdullah Sami I",702386073,EAPVI/E-EAP 1 / FP|R,MB,M,4:00,-,-,-,0,0,Michael Brook,-
+"Albeladi, Abrar Mohammedsaleh H",702334512,EIL-2/A-VI/B / FP|,JB,T,4:00,XC1,TR,1:00,0,0,Jason Bowser,Lori Fisher
+"Albeladi, Nawaf Sweilem G",702275371,GRADVI-PrepEAPVI / FP|RR,XW3,TR,2:00,OK,R,3:00,0,0,Christienne Woods,Owen Kelly
+"Albugami, Abdullah Moteb A",702271247,EIL-2/B-AWB / FP|PP,NS,M,9:15,NS,W,8:15,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Alderei, Saeed Saif Mohammed Mubarak",702385151,I-I / FP|,NB,T,1:00,JA,R,2:00,0,0,Nancy Blevins,Janice Thompson
+"Aldhamer, Ali A M A",702382464,EAPVI/D-VI/C / FP|,JH,T,3:00,SP,R,3:00,0,0,Jason Hoover,Susan Peters
+"Alenezi, Mohammad H M M",702382705,ALCS/B-IV/B / FP|,DD,M,8:15,TJ,W,9:15,0,0,Dawn Davis,Theresa Jelenek
+"Alenezi, Reem KH M D",702382708,FILM-V/B / FP|,CC,M,1:00,KB,W,4:00,0,0,Catherine Ciferni,Keila Brown
+"Alewidi, Abdulaziz Mohammed H",702386070,VOICES-VOICES / FP|T,-,-,-,LF,W,4:00,0,0,-,Lori Fisher
+"Alewidi, Zahra Mohammed H",702386584,ABCS-GRADVI/B / FP|,CL,T,1:00,JP,R,4:00,0,0,Charles Lutz,Jeremy Penna
+"Alfadhli, Muaath KH TH D",702382360,IIIC-IIIB / FP|,LH,T,1:00,NB,R,5:00,0,0,Lee Horzempa,Nancy Blevins
+"Alfarraj, Abdulaziz Saleh Z",702386941,-IIA--IIC / FP|,-,-,-,-,-,-,0,0,-,-
+"Alfelit, Sami Sanad A",702380305,AOB/A-WB / FP|,XG1,MW,4:00,XV1,TR,4:00,0,0,Rosana Dempsey,Brady Smith
+"Alfoaim, Bandar Abdulrahman M",702278306,ALCS/A-IV/D / FP|,CL,M,3:00,MB,W,2:00,0,0,Charles Lutz,Michael Brook
+"Alghamdi, Fawziah Ahmed A",702382098,IV/B-IV/A / FP|SS,KA,T,11:30,PR,W,10:30,0,0,Kathryn Britton,Paula Rusinko
+"Alghamdi, Thoria Ahmed M",701526172,EAPVI/D-GRE/GMAT Prep / FP|,XC1,TR,1:00,TH,R,3:00,0,0,Lori Fisher,Theresa Hartel
+"Alhabradi, Nader Nawasir M",702289819,EAPV/G-EAPV/C / FP|RR,EH,T,3:00,XW3,TR,2:00,0,0,Elaine Heyden,Christienne Woods
+"Alhajeri, Abdullah SM A T M",702360468,ALCS/D-IV/B / FP|,DR,T,3:00,XCk,R,1:00,0,0,David Robertson,Nancy Turner
+"Alhaji, Ayman Mohammed N",702386066,1960s/B-EAPVI/E / FP|Q,WM,T,1:00,-,-,-,0,0,Basil Maas,-
+"Alhajri, Maefarj F M Z",702381883,ALCS/B-AHISTV / FP|,SC,T,9:15,KB,W,8:15,0,0,Sarah Cornell,Keila Brown
+"Alhajri, Rashed F M B SH B R A",702382179,ALCS/A-IV/D / FP|,MB,T,4:00,BS,R,1:00,0,0,Michael Brook,Brady Smith
+"Alhammadi, Yousef E H A A",702382989,ALCS/B-IV/C / LP|,-,-,-,-,-,-,0,0,-,-
+"Alhaqbani, Moath Abdullah A",702407626,BASIC-BASIC / FP|,JA,T,1:00,NB,R,2:00,0,0,Janice Thompson,Nancy Blevins
+"Alhaqbani, Ohud Abdulaziz A",702342636,ALCS/D-V/E / FP|,SP,W,1:00,XC1,TR,1:00,0,0,Susan Peters,Lori Fisher
+"Alharbi, Abdulrahman A A F",702383819,IIIC-IIC / FP|,DR,M,2:00,MD,W,4:00,0,0,David Robertson,Melora Davis
+"Alharbi, Bader Obidallah N",702339186,1960s/A-V/E / FP|,NS,T,3:00,NS,R,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Alharbi, Khaled A J A",702396514,IV/A-IV/E / FP|,KB,M,10:30,LF,W,11:30,0,0,Keila Brown,Lori Fisher
+"Alharbi, Salman Sami A",702340591,EAPV/I-EAPV/C / FP|wd-J,PR,M,1:00,SC,W,4:00,0,0,Paula Rusinko,Sarah Cornell
+"Alharthi, Majed Masoud M",702386072,EAPVI/E-EAP 1 / FP|R,BG,M,4:00,-,-,-,0,0,Barbara Gillette,-
+"Alhashimalsaye, Ridha Hejji A",702339769,STORIES-V/E / FP|,KB,T,1:00,JM,R,4:00,0,0,Keila Brown,Jill McCracken
+"Alhazmi, Mohammed Waslallah A",702352099,IIIC-IIC / FP|,CM,T,2:00,MD,R,4:00,0,0,George Thompson,Melora Davis
+"Alhazmi, Taghreed Waslalah A",702309995,IV/A-IV/A / FP|,EL,M,11:30,ME,W,11:30,0,0,Elizabeth Lee,M.E. Cathcart
+"Alhejori, Jood Ali S",702387748,IIA-IIIA / LP|,-,-,-,-,-,-,0,0,-,-
+"Al-Hemaidi, Mohammed Omar A I",702385348,IIIA-IIC / FP|VI-16,JE,M,3:00,PT,W,3:00,0,0,James Eliason,Patrick Ruffin
+"Alhemlan, Khaled M H A",702382980,IV/C-IIID / FP|,OK,M,2:00,XS1,TR,1:00,0,0,Owen Kelly,Debra Darrell Wolf
+"Alhemlan, Saleh TH S A",702382976,ALCS/D-IV/D / FP|,KB,T,2:00,JH,R,3:00,0,0,Keila Brown,Jason Hoover
+"Alhijab, Hussain Habib A",702383246,EAPVI/D-EAPV/F / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Alhirsan, Saleh Madallah A",702260340,EIL-2/B-GRADVI/A / FP|,JD,T,8:15,PR,R,8:15,0,0,Jiadou La,Paula Rusinko
+"Alhumaid, Abdulaziz Mohammed I",702345406,1960s/A-NEWSPAPERS / FP|,ME,M,11:30,KS,W,10:30,0,0,M.E. Cathcart,Katherine Sheedy
+"Alhumaid, Waleed Mohammed A",702407585,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Alhumayyd, Meshari Khalid S",702386061,EAPVI/B-EAP 1 / FP|P,NM,M,1:00,-,-,-,0,0,Nelson McMillan,-
+"Alhussain, Ali Salman H",702383254,1960s/A-EAPVI/C / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Aljabri, Wafa Saeed B",702380976,IV/B-IV/D / LP|,-,-,-,-,-,-,0,0,-,-
+"Al-Jawhi, Saeed Hasan Mohammed",702387644,IV/C-IV/C / FP|,EL,M,3:00,CC,W,2:00,0,0,Elizabeth Lee,Catherine Ciferni
+"Aljuaidi, Jarah H J H",702382138,IV/E-IIID / FP|,MD,T,3:00,LH,R,3:00,0,0,Melora Davis,Lee Horzempa
+"Aljuraibi, Mohammed Ali M",702386747,OB-WB / FP|SS,RP,M,1:00,CL,W,4:00,0,0,Robert Panadero,Charles Lutz
+"Aljurayyad, Munirah Qasem M",702381808,IIID-IIIC / FP|,NB,T,4:00,PR,R,1:00,0,0,Nancy Blevins,Paula Rusinko
+"Alkahtani, Saud Abdullah M",702232641,-IIIB--IIIB / FP|,-,-,-,-,-,-,0,0,-,-
+"Alkandari, Yousef A M H",702382988,IV/C-IV/B / FP|,SC,T,3:00,CF,R,2:00,0,0,Sarah Cornell,Cynthia Funk
+"Alkathiri, Abdulelah Ali N",702369909,ALCS/E-IV/C / LP|,-,-,-,-,-,-,0,0,-,-
+"Alkhaledi, Saad H S S",702383118,IIIC-IIIB / FP|,LH,M,5:00,NB,W,1:00,0,0,Lee Horzempa,Nancy Blevins
+"Alkhamis, Arwa Mohammed N",702329527,IV/D-IV/C / FP|,CM,M,5:00,JA,R,5:00,0,0,George Thompson,Janice Thompson
+"Alkhamis, Reem Salem S",702383244,EAPVI/B-EAPVI/F / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Alkoot, Huseen A H A",702383136,EAPV/I-VI/C / FP|,DR,M,4:00,MZ,W,1:00,0,0,David Robertson,Myrna Zaetta
+"Almadhaani, Omar Saeed Abdulla Ali A",702400164,IIIA-IIID / FP|,CS,M,1:00,NB,W,5:00,0,0,Candise Leonard-Schmidling,Nancy Blevins
+"Almalki, Sharifah Saeed S",702306520,IIIB-IIIA / FP|,PT,T,1:00,MZ,R,1:00,0,0,Patrick Ruffin,Myrna Zaetta
+"Almana, Abeer Abdulaziz H",702359920,1960s/A-VI/B / FP|wd-,KB,T,4:00,JM,R,1:00,0,0,Keila Brown,Jill McCracken
+"Almesned, Sumayah Abdullah S",702386019,ALCS/C-AHISTV / FP|SS,ME,T,3:00,KE,R,3:00,0,0,M.E. Cathcart,Karen Eliason
+"Almutairi, Omar F H A A",702382490,IIIC-IIC / FP|,MB,M,2:00,KB,W,3:00,0,0,Michael Brook,Keila Brown
+"Alnafeesah, Atyaf Abdulrahman I",702374396,ALCS/D-WB / FP|,TJ,T,3:00,WM,R,2:00,0,0,Theresa Jelenek,Basil Maas
+"Aloryd, Yousef Kamal A",702387636,IIA-I / FP|,LH,M,2:00,MD,W,3:00,0,0,Lee Horzempa,Melora Davis
+"Alosaimi, Qaed Hamoud N",702382529,NEWSIV-IV/B / FP|,ED,T,3:00,XV1,TR,4:00,0,0,Ella de Courcelle,Brady Smith
+"Alosimi, Mohammed Humoud N",702334484,OB-IV/B / FP|,XI1,MW,3:00,CM,R,1:00,0,0,Cynthia Funk,George Thompson
+"Alotaibi, Abdulrahman M H TH A",702382692,IV/A-IIIA / FP|,DR,M,1:00,SP,W,4:00,0,0,David Robertson,Susan Peters
+"Alotaibi, Dhari M K M",702383137,EAPV/D-V/E / FP|,DD,T,9:15,LH,R,8:15,0,0,Dawn Davis,Lee Horzempa
+"Alotaibi, Khaled Nasser M",702371792,IIIA-IIID / FP|,JN,T,2:00,NB,R,4:00,0,0,Julie Stanton Nichols,Nancy Blevins
+"Alotaibi, Maha Abdullah M",702269211,ALCS/E-IV/A / LP|,-,-,-,-,-,-,0,0,-,-
+"Alothman, Yasir Barrak S",702328798,ALCS/E-WB / FP|wd-G,ME,T,1:00,TG,R,4:00,0,0,M.E. Cathcart,Thomas Gething
+"Alowaid, Majed Abdullah",702276894,FILM-EAPV/B / FP|QQ,XW3,TR,2:00,MB,W,1:00,0,0,Christienne Woods,Michael Brook
+"Alqahtani, Haneen Faisal M",702382456,AOB/B-EAPV/D / FP|,JM,T,1:00,JB,W,1:00,0,0,Jill McCracken,Jason Bowser
+"Alqahtani, Salman Fahad S",702275588,GRADVI-V/B / FP|,CL,T,4:00,XS1,TR,1:00,0,0,Charles Lutz,Debra Darrell Wolf
+"Alqatari, Majed Nezar M",702386068,EAPVI/C-EAP 1 / FP|S,RP,R,1:00,-,-,-,0,0,Robert Panadero,-
+"Alradhi, Faisal Abdulaziz R",702387628,EAPV/G-EAPV/A / FP|,MZ,T,1:00,KE,R,1:00,0,0,Myrna Zaetta,Karen Eliason
+"Alrashidi, Abdullah T S KH",702382646,BASIC-BASIC / FP|,NB,T,2:00,JA,R,1:00,0,0,Nancy Blevins,Janice Thompson
+"Alrashidi, Bader A H R",702382491,ALCS/E-V/E / FP|,SC,M,4:00,JM,W,1:00,0,0,Sarah Cornell,Jill McCracken
+"Alrashidi, Naif F Z D O",702385926,IIIC-IIC / FP|,MB,M,3:00,KE,W,3:00,0,0,Michael Brook,Karen Eliason
+"Alrashidi, Nawaf N R M",702382549,IIIC-IIB / FP|,LH,T,3:00,NB,R,3:00,0,0,Lee Horzempa,Nancy Blevins
+"Alrauji, Mohammad A A",702384248,EIL-2/B-BRIDGE / FP|BRIDGE-H,OD,M,1:00,-,-,-,0,0,On Demand,-
+"Alsaeidi, Mubarak M KH S",702382657,EAPV/E-V/E / FP|,KS,T,3:00,OK,R,2:00,0,0,Katherine Sheedy,Owen Kelly
+"Alsafran, Nouf Fahad M",702370163,AOB/A-WB / FP|,MD,M,1:00,XCg,W,1:00,0,0,Melora Davis,Nancy Turner
+"Al-Saggaf, Ebrahim Sheikh Ahmed",702383708,EIL-2/B-V/D / FP|,CS,R,9:15,KA,W,8:15,0,0,Candise Leonard-Schmidling,Kathryn Britton
+"Alsahli, Saad SH S A",702383147,STORIES-WB / FP|,NS,M,2:00,NS,W,4:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Alsaidi, Saad M H DH T",702382644,AOB/B-IV/C / FP|,KG,T,3:00,CC,R,2:00,0,0,Kristin Grant,Catherine Ciferni
+"Alsaidi, Soud A S A",702382706,IIB-IIC / FP|,JA,M,3:00,LH,W,2:00,0,0,Janice Thompson,Lee Horzempa
+"Alsaleh, Abdullwhab F M A",702382041,EAPV/E-VI/B / FP|,LT,M,1:00,CF,W,4:00,0,0,Lost Tutor (3NS),Cynthia Funk
+"Alshaalan, Abdullah Abdulaziz A",702306247,EIL-2/A-VI/C / FP|,EH,T,4:00,WM,R,1:00,0,0,Elaine Heyden,Basil Maas
+"Alshammari, Amal S KH B TH",702383120,ALCS/A-IV/E / FP|,DD,M,11:30,ME,W,10:30,0,0,Dawn Davis,M.E. Cathcart
+"Alshammari, Muteb Farraj T",702385111,I-I / FP|,MD,T,1:00,JN,R,4:00,0,0,Melora Davis,Julie Stanton Nichols
+"Alshammari, Mutlaq Hameed M",702372251,IIID-IIIC / FP|,CM,M,4:00,JA,W,2:00,0,0,George Thompson,Janice Thompson
+"Alshammeri, Mohammad E M A",702382648,STORIES-IV/D / FP|,CF,T,3:00,SS,R,1:00,0,0,Cynthia Funk,Saloni Sharma
+"Alshamrani, Salhah Awthah A",702385772,I-IIC / LP|,-,-,-,-,-,-,0,0,-,-
+"Alshamrany, Yazeed Ali M",702386074,NONE-R/FILMVI/A / FP|BRIDGE-R,KH,M,1:00,-,-,-,0,0,To be assigned,-
+"Alshanqiti, Afrah Mohammedyahya M",702292090,EAPV/C-VI/A / FP|,ME,T,2:00,XCg,W,1:00,0,0,M.E. Cathcart,Nancy Turner
+"Alshanqiti, Ahmed Mahmoud M",702357584,EAPV/G-EAPV/D / FP|,KA,T,3:00,TG,R,2:00,0,0,Kathryn Britton,Thomas Gething
+"Alshanqiti, Ahmed Mohammed M",702370629,IV/A-IIID / LP|,-,-,-,-,-,-,0,0,-,-
+"Alshanqiti, Waad Ahmed M",702370630,EAPV/E-IV/A / FP|,TJ,M,10:30,JF,W,10:30,0,0,Theresa Jelenek,Joan French
+"Alsharaf, Abdulaziz S A SH",702382690,EAPV/B-EAPV/H / FP|,MZ,M,11:30,BS,W,10:30,0,0,Myrna Zaetta,Brady Smith
+"Al-Sheraim, Yousef Sultan R Y",702385349,IIIC-IIB / FP|VI-16,LH,T,4:00,PT,R,2:00,0,0,Lee Horzempa,Patrick Ruffin
+"Alsubahi, Mansour Barakatallah K",702330479,IIID-IIID / FP|,CM,M,2:00,LH,W,1:00,0,0,George Thompson,Lee Horzempa
+"Alsubaie, Abdullah Saeed F",702385797,IV/D-IIID / FP|,XCm,R,5:00,KA,R,1:00,0,0,Nancy Turner,Kathryn Britton
+"Alsubaie, Eid Saad A",702292143,IV/B-IIID / FP|,NS,T,2:00,NS,R,4:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Alsubaie, Orayman Miqad H",702380737,IV/A-V/E / FP|,PT,T,2:00,CM,R,2:00,0,0,Patrick Ruffin,George Thompson
+"Alsubhi, Nuran Saleem M",702328902,1960s/B-GRE/GMAT Prep / FP|,XC1,TR,1:00,KG,T,2:00,0,0,Lori Fisher,Kristin Grant
+"Alsugair, Shatha Mohammad S",702387625,AOB/B-WB / FP|,CC,T,1:00,SP,R,1:00,0,0,Catherine Ciferni,Susan Peters
+"Alsuhaibani, Manahil Abdullah N",702382649,EIL-2/A-AWB / FP|,XC1,TR,1:00,EL,W,1:00,0,0,Lori Fisher,Elizabeth Lee
+"Alsuwaihri, Nabil Mohammad M",702342908,IIB-IIC / LP|,-,-,-,-,-,-,0,0,-,-
+"Alsuwaihri, Rehab Aifan N",702259617,EAPVI/D-VI/C / FP|,XS1,TR,1:00,ME,R,3:00,0,0,Debra Darrell Wolf,M.E. Cathcart
+"Altanak, Yousef B A J",702383117,DRAMA-EAPV/I / FP|,XCk,R,1:00,PR,W,1:00,0,0,Nancy Turner,Paula Rusinko
+"Altunisik, Abdurrahim",702386604,EAPV/C-EAPV/A / FP|,XCa,M,1:00,XG6,R,2:00,0,0,Nancy Turner,Jill McCracken
+"Alwazzan, Aminah Abdullah M",702328797,EIL-2/A-AHISTV / FP|wd-LL,PT,T,4:00,EL,R,1:00,0,0,Patrick Ruffin,Elizabeth Lee
+"Al-Yahyaai, Younis Mohammed Hamed",702406368,IV/E-IIIC / FP|,JA,T,3:00,JH,R,2:00,0,0,Janice Thompson,Jason Hoover
+"Alzamil, Saad Mohammed F",702385139,IIIA-IIB / FP|,CM,T,4:00,PT,R,1:00,0,0,George Thompson,Patrick Ruffin
+"Alzuwayer, Rashid Hamad",702381880,EAPV/E-EAPV/C / FP|,KS,T,2:00,CC,R,3:00,0,0,Katherine Sheedy,Catherine Ciferni
+"Ambrosi De Magistris, Gregorio ",702386140,AOB/A-AWB / FP|,RD,M,1:00,KS,R,4:00,0,0,Rosana Dempsey,Katherine Sheedy
+"Amida, Princess Radjabu",702383826,EIL-2/A-AHISTV / FP|,RD,T,4:00,JB,R,1:00,0,0,Rosana Dempsey,Jason Bowser
+"An, Zinan",702352206,EAPV/D-VI/A / FP|H,KG,T,9:15,KB,R,8:15,0,0,Kristin Grant,Keila Brown
+"Ariza Pajaro, Levis Duvalier",702406372,I-I / FP|,LH,M,4:00,MD,W,1:00,0,0,Lee Horzempa,Melora Davis
+"Aseeri, Maram Ali M",702277967,EAPVI/D-GRE/GMAT Prep / FP|,XS1,TR,1:00,JF,W,2:00,0,0,Debra Darrell Wolf,Joan French
+"Asiri, Ahmed Awsi A",702284851,1960s/A-VI/C / FP|,BS,T,3:00,JE,R,2:00,0,0,Brady Smith,James Eliason
+"Atahifh, Hassin Ali J",702336685,1960s/B-V/C / FP|,EL,M,2:00,DR,W,3:00,0,0,Elizabeth Lee,David Robertson
+"Aykac, Ozlem",702386625,IV/B-IV/D / FP|,JB,M,1:00,ME,R,1:00,0,0,Jason Bowser,M.E. Cathcart
+"Ba Tawil, Ahmed Omar Salem",702383340,EIL-2/A-AHISTV / FP|,OK,T,4:00,JH,R,1:00,0,0,Owen Kelly,Jason Hoover
+"Ba Tawil, Salem Al-Tawil Mubarak",702383343,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Bahoqiba, Salem Yaslam Salem",702383821,EAPV/A-V/B / FP|Q,JD,M,3:00,KE,W,2:00,0,0,Jiadou La,Karen Eliason
+"Baroom, Abdullah Mohammed A",702385335,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Bashammakh, Moaz Aboud A",702383249,EAPVI/B-VI/B / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Bashi, Brisilda",702362937,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Bhatt, Ektaben Kiritbhai",702383964,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Bonardd Zegarra, Christian Andre",702384422,IIA-IIIC / FP|,JA,M,1:00,LH,W,4:00,0,0,Janice Thompson,Lee Horzempa
+"Bu Shlaibi, Ibrahim Jassim M",702396545,IIIB-IIA / FP|,CM,M,1:00,LH,W,5:00,0,0,George Thompson,Lee Horzempa
+"Budhathoki, Swarup",702386554,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Cai, Youwei ",702364606,EAPVI/F-EAPV/G / FP|P,KA,T,8:15,DR,R,9:15,0,0,Kathryn Britton,David Robertson
+"Cai, Zhuocheng ",702360478,1960s/B-PrepEAPVI / FP|T,JH,M,1:00,BS,W,1:00,0,0,Jason Hoover,Brady Smith
+"Cakir Dilek, Betul",702386608,ALCS/D-EAPV/A / FP|,KA,T,1:00,XCa,M,1:00,0,0,Kathryn Britton,Nancy Turner
+"Cao, Dongdong ",702369294,EAPV/H-EAPV/H / FP|R,KB,M,11:30,EL,W,11:30,0,0,Keila Brown,Elizabeth Lee
+"Cao, Peiquan",702263968,1960s/B-EAPV/B / FP|COMP-III16; R,NS,M,5:00,NS,W,1:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Cao, Peiyue ",702360263,EAPV/E-EAPV/E / FP|R,PR,T,10:30,ME,R,10:30,0,0,Paula Rusinko,M.E. Cathcart
+"Cao, Trieu Quy",702386928,IIIC-IIIA / FP|V-16,CM,T,1:00,JN,R,5:00,0,0,George Thompson,Julie Stanton Nichols
+"Cao, Yuanyuan",702361853,DRAMA-EAPVI/D / FP|T,SC,T,2:00,MZ,R,4:00,0,0,Sarah Cornell,Myrna Zaetta
+"Castiblanco Sarmiento, Andres Felipe ",702386132,EAPV/H-AWB / FP|,EH,M,1:00,DR,W,4:00,0,0,Elaine Heyden,David Robertson
+"Chai, Zilin ",702362376,ALCS/C-V/D / FP|B,MZ,T,3:00,TH,R,2:00,0,0,Myrna Zaetta,Theresa Hartel
+"Chen, Cheng ",702371658,EAPV/E-EAPV/E / FP|O,CS,T,10:30,OK,R,11:30,0,0,Candise Leonard-Schmidling,Owen Kelly
+"Chen, Fei ",702371550,ALCS/C-V/C / FP|A,JE,M,2:00,PR,W,3:00,0,0,James Eliason,Paula Rusinko
+"Chen, Hao",702286382,-VAC--VAC / FP|COMP-V15,-,-,-,-,-,-,0,0,-,-
+"Chen, Mengchen ",702364001,FILM-EAPVI/D / FP|COMP-III16,TG,M,2:00,DR,W,2:00,0,0,Thomas Gething,David Robertson
+"Chen, Shengxiang ",702364307,EAPVI/E-R/FILMVI/A / FP|BRIDGE-M,OD,M,1:00,-,-,-,0,0,On Demand,-
+"Chen, Siwen ",702382137,IIB-IIIA / FP|,MD,M,2:00,JA,W,3:00,0,0,Melora Davis,Janice Thompson
+"Chen, Wanjia",702352203,ALCS/E-EAPV/F / FP|B,DW,T,2:00,KS,R,3:00,0,0,Debra Darrell Wolf,Katherine Sheedy
+"Chen, Xiao",702380835,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Chen, Xiaolong",702236115,1960s/B-R/FILMVI/B / FP|J,KB,T,11:30,BS,R,11:30,0,0,Keila Brown,Brady Smith
+"Chen, Xinlei",702381832,ALCS/C-V/B / FP|wd-RR,ED,T,2:00,NM,R,3:00,0,0,Ella de Courcelle,Nelson McMillan
+"Chen, Yi ",702363673,EAPVI/D-PrepEAPVI / FP|J,EL,T,4:00,CS,W,1:00,0,0,Elizabeth Lee,Candise Leonard-Schmidling
+"Chen, Yifan ",702352217,EAPV/D-EAPVI/C / FP|T,OK,T,9:15,LF,R,8:15,0,0,Owen Kelly,Lori Fisher
+"Chen, Yizhen",702360829,FILM-EAPV/E / FP|R,OK,M,10:30,KB,W,11:30,0,0,Owen Kelly,Keila Brown
+"Chen, Yubin ",702363670,BRIDGE-EAPVI/E / FP|COMP-III16,-,-,-,OD,R,1:00,0,0,-,On Demand
+"Chen, Zhengyuan ",702349823,ABCS-VI/C / FP|PP,SC,M,1:00,TG,W,4:00,0,0,Sarah Cornell,Thomas Gething
+"Chen, Zikai ",702360308,EAPVI/E-EAPVI/B / FP|J,XCe,T,3:00,TH,W,3:00,0,0,Nancy Turner,Theresa Hartel
+"Cheng, Shitong ",702361554,EAPVI/A-EAPV/G / FP|S,JD,M,8:15,KB,W,9:15,0,0,Jiadou La,Keila Brown
+"Cheng, Zhenhan ",702373303,EAPV/G-EAPV/D / FP|QQ,JB,M,3:00,BG,W,2:00,0,0,Jason Bowser,Barbara Gillette
+"Chiu, Lung-Yi ",702386361,OB-WB / FP|,DR,M,3:00,CF,W,2:00,0,0,David Robertson,Cynthia Funk
+"Cristancho Cuestas, Ruben Darley",702382548,IIID-IIC / FP|,XP1,MW,2:00,JM,W,4:00,0,0,Paula Rusinko,Jill McCracken
+"Cui, Hongyu ",702368393,ALCS/E-V/C / FP|S,NS,T,4:00,NS,R,1:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Dahashi, Kholod Hussin Y",702266044,1960s/B-GRADVI/B / FP|,NM,T,1:00,SC,R,2:00,0,0,Nelson McMillan,Sarah Cornell
+"Dai, Haocheng",702361851,EAPV/F-EAPV/C / FP|T,KA,M,8:15,CL,W,9:15,0,0,Kathryn Britton,Charles Lutz
+"Dere, Ilker",702385713,NONE-IV/B / LP|,-,-,-,-,-,-,0,0,-,-
+"Dighriri, Mohammed Ali A",702300699,IV/D-IIID / FP|,DR,M,9:15,ME,W,8:15,0,0,David Robertson,M.E. Cathcart
+"Dighriri, Mona Ali A",702300722,OB-IV/A / FP|,DD,T,11:30,WM,R,10:30,0,0,Dawn Davis,Basil Maas
+"Ding, Pan",702049625,NONE-EAPVI/C / FP|COMP-III16; Z,RD,T,2:00,JP,R,2:00,0,0,Rosana Dempsey,Jeremy Penna
+"Dirioz, Mustafa Halid",702386624,STORIES-AHISTV / FP|,XG1,MW,4:00,XCg,W,1:00,0,0,Rosana Dempsey,Nancy Turner
+"Doaib, Delal Mohammad A",702367678,EIL-2/A-EAPV/E / FP|,CS,R,11:30,XCm,R,5:00,0,0,Candise Leonard-Schmidling,Nancy Turner
+"Dong, Zetong",702285933,-VOICES--VOICES / FP|COMP-VI15,-,-,-,-,-,-,0,0,-,-
+"Dos Santos Wagner, Cristiane",702403426,IIA-IIA / FP|,LH,M,3:00,PT,W,2:00,0,0,Lee Horzempa,Patrick Ruffin
+"Doshi, Abdullrahman Ahmad M",702288708,EAPV/H-NEWSPAPERS / FP|,NS,M,10:30,NS,W,11:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Du, Wei ",702369922,EAPVI/F-EAPVI/B / FP|H,MZ,T,9:15,KG,R,8:15,0,0,Myrna Zaetta,Kristin Grant
+"Du, Yiqian",702360424,EIL-2/A-V/D / FP|Q,LF,T,4:00,CF,R,1:00,0,0,Lori Fisher,Cynthia Funk
+"Duan, Helong",702363716,EAPV/A-V/B / FP|P,JP,T,3:00,SP,R,2:00,0,0,Jeremy Penna,Susan Peters
+"Duan, Xuefei",702358261,EAPV/D-EAPV/B / FP|Q,PR,M,9:15,JF,W,8:15,0,0,Paula Rusinko,Joan French
+"Duan, Zhihong ",702369269,EAPVI/A-EAPVI/E / FP|H,LH,T,8:15,WM,R,9:15,0,0,Lee Horzempa,Basil Maas
+"Durmaz, Gokberk",702386614,EAPV/C-AHISTV / FP|,XCg,W,1:00,XG1,MW,4:00,0,0,Nancy Turner,Rosana Dempsey
+"Ekin, Muhammed Emin",702386621,ALCS/B-V/B / FP|,CS,T,9:15,XW2,MW,1:00,0,0,Candise Leonard-Schmidling,Thomas Gething
+"Elhan, Selcuk",702386628,EAPV/G-EAPV/A / FP|,BG,R,3:00,CC,R,1:00,0,0,Barbara Gillette,Catherine Ciferni
+"Elhoula Radhouani, Nadia",702383524,IV/B-IV/C / FP|,CF,M,1:00,XCe,T,3:00,0,0,Cynthia Funk,Nancy Turner
+"Ergin, Gulberg",702386615,ALCS/C-V/B / FP|,TG,T,4:00,KB,R,1:00,0,0,Thomas Gething,Keila Brown
+"Estrada Mejia, Rafael Ignacio",702407954,NEWSIV-VI/B / FP|,NM,M,2:00,EL,W,3:00,0,0,Nelson McMillan,Elizabeth Lee
+"Fan, Guchen",702383622,IV/C-IIIB / FP|V-16,MH,T,3:00,BS,R,3:00,0,0,Maribeth Hoelmer,Brady Smith
+"Fan, Tianqi ",702369106,ABCS-GRADVI/B / FP|COMP-III16,XI1,MW,3:00,XCm,R,5:00,0,0,Cynthia Funk,Nancy Turner
+"Fan, Zizhuo ",702363897,EAPVI/C-EAPVI/E / FP|COMP-III16,EH,T,2:00,DR,R,3:00,0,0,Elaine Heyden,David Robertson
+"Felemban, Ala Maher",702400099,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Feng, Haoqi",702379553,EAPV/H-V/D / FP|R,JB,T,3:00,DR,R,2:00,0,0,Jason Bowser,David Robertson
+"Feng, Min",702361974,DRAMA-PrepEAPVI / FP|H,JH,T,2:00,PR,R,2:00,0,0,Jason Hoover,Paula Rusinko
+"Flores Sandoval, Jose Joaquin Santiago",702384564,IIIA-IIIC / FP|,XB1,TR,1:00,XP1,MW,2:00,0,0,Chris Pinkerton,Paula Rusinko
+"Fu, Jiahui ",702363962,FILM-EAPV/B / FP|P,NS,M,2:00,NS,W,4:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Fudera, Hiroyuki ",702382253,OB-AWB / FP|,XP1,MW,2:00,JH,W,1:00,0,0,Paula Rusinko,Jason Hoover
+"Gao, Puzhen ",702368196,EAPVI/B-EAPVI/A / FP|J,SS,T,10:30,KG,R,10:30,0,0,Saloni Sharma,Kristin Grant
+"Gao, Tian ",702372159,DRAMA-EAPVI/A / FP|H,NS,M,11:30,NS,W,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Garrido Bonfante, Tatiana Maria",702386017,IIID-IIIC / FP|,RD,M,3:00,NB,W,3:00,0,0,Rosana Dempsey,Nancy Blevins
+"Ge, Jingyu",702326967,EAPVI/A-R/FILMVI/A / FP|BRIDGE-G,OD,T,8:15,-,-,-,0,0,On Demand,-
+"Ge, Liming",702365820,IV/E-V/C / FP|B,JM,T,2:00,XCl,R,3:00,0,0,Jill McCracken,Nancy Turner
+"Geng, Ruihan ",702372926,EAPVI/D-VI/A / FP|COMP-III16,NM,M,3:00,MH,W,2:00,0,0,Nelson McMillan,Maribeth Hoelmer
+"Gulum, Mehmet Akif",702386619,ALCS/A-IV/A / FP|,CS,T,11:30,XB1,TR,1:00,0,0,Candise Leonard-Schmidling,Chris Pinkerton
+"Guo, Jianzhao",702264876,DRAMA-R/FILMVI/B / FP|COMP-IV15,DD,T,10:30,PR,R,10:30,0,0,Dawn Davis,Paula Rusinko
+"Guo, Nanchuan ",702363830,ALCS/C-V/C / FP|Q,RP,M,3:00,CL,W,3:00,0,0,Robert Panadero,Charles Lutz
+"Guo, Yue ",702368190,"-VAC--VAC / FP|-VAC, S",-,-,-,-,-,-,0,0,-,-
+"Halacoglu, Selim",702386630,ALCS/D-V/B / FP|,XCa,M,1:00,KB,R,2:00,0,0,Nancy Turner,Keila Brown
+"Han, Meiyan ",702366820,Entrepreneurship-GRE/GMAT Prep / FP|COMP-III16,KH,M,2:00,TG,W,3:00,0,0,To be assigned,Thomas Gething
+"Han, Muzhou",702355306,ALCS/C-IV/D / FP|B,RP,M,2:00,RK,W,3:00,0,0,Robert Panadero,Robert Kaatz
+"Hao, Lihui ",702369364,ABCS-GRE/GMAT Prep / FP|COMP-III16,LF,T,2:00,RP,R,3:00,0,0,Lori Fisher,Robert Panadero
+"Hashbal, Jamilah Mohammad A",702251465,EAPVI/C-V/E / FP|,KH,M,3:00,TG,W,2:00,0,0,To be assigned,Thomas Gething
+"He, Chenyi",702368999,ALCS/C-V/D / FP|RR,KB,T,3:00,MZ,R,2:00,0,0,Keila Brown,Myrna Zaetta
+"He, Kexue ",702340630,EAPV/D-EAPVI/C / FP|P,WM,T,9:15,SP,R,8:15,0,0,Basil Maas,Susan Peters
+"He, Shiyu ",702360230,EAPV/F-V/D / FP|S,ME,M,8:15,PR,W,9:15,0,0,M.E. Cathcart,Paula Rusinko
+"Honda, Mamiko",702396511,IV/C-AWB / FP|,XP1,MW,2:00,KS,R,1:00,0,0,Paula Rusinko,Katherine Sheedy
+"Hsu, Chun-Hao ",702383645,GRADVI-EAPV/D / FP|,MZ,T,2:00,JP,R,3:00,0,0,Myrna Zaetta,Jeremy Penna
+"Hu, Wen",702260892,-VAC--VAC / FP|COMP-I15,-,-,-,-,-,-,0,0,-,-
+"Hu, Zhongyuan",702354369,EAPVI/E-EAPVI/B / FP|COMP-III16,NS,T,3:00,NS,R,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Huang, Haodong ",702361700,EAPVI/F-R/FILMVI/A / FP|U,SC,T,8:15,PR,R,9:15,0,0,Sarah Cornell,Paula Rusinko
+"Huang, Shaoqin",702363829,EAPVI/E-EAPVI/A / FP|M,CL,M,10:30,MZ,W,11:30,0,0,Charles Lutz,Myrna Zaetta
+"Huang, Shichao",702371696,Entrepreneurship-GRADVI/B / FP|PP,KG,M,1:00,MB,W,4:00,0,0,Kristin Grant,Michael Brook
+"Huang, Xigang ",702368193,EAPV/D-EAPV/G / FP|S,DR,T,9:15,WM,R,8:15,0,0,David Robertson,Basil Maas
+"Huang, Yu",702396526,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Huang, Zhenhuan ",702372343,ALCS/B-V/D / FP|A,NS,T,9:15,NS,R,8:15,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Ikoshi, Risa",702384061,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Im, Jeeyoon",702386513,IV/C-AHISTV / FP|,XCk,R,1:00,KB,W,1:00,0,0,Nancy Turner,Keila Brown
+"Inan, Sinan",702386632,EAPV/G-EAPV/C / FP|,XCa,M,1:00,XG6,R,2:00,0,0,Nancy Turner,Jill McCracken
+"Ji, Chunxu ",702363905,EAPVI/D-EAPVI/B / FP|COMP-III16,XV1,TR,4:00,MH,W,1:00,0,0,Brady Smith,Maribeth Hoelmer
+"Ji, Daoyuan",702264154,1960s/B-EAPVI/C / FP|Z,BS,T,1:00,OK,R,4:00,0,0,Brady Smith,Owen Kelly
+"Ji, Xiaoxin",702385450,EAPV/G-EAPV/D / FP|SS,KG,M,2:00,NM,W,3:00,0,0,Kristin Grant,Nelson McMillan
+"Jiao, Wenkang",702386562,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Jin, Guangbin ",702375291,ABCS-GRADVI/A / FP|PP,JD,M,2:00,MZ,W,3:00,0,0,Jiadou La,Myrna Zaetta
+"Jin, Hyungjin",702407559,IV/E-IIIA / FP|,CM,T,3:00,JN,R,3:00,0,0,George Thompson,Julie Stanton Nichols
+"Jin, Zhan",702365299,ALCS/B-V/D / FP|A,NS,T,9:15,NS,R,8:15,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Jing, Yifan",702361778,"-VAC--VAC / FP|-VAC,NN",-,-,-,-,-,-,0,0,-,-
+"Joban, Ahmed Abdulwahab Ahmed",702387630,EAPV/A-EAPV/B / FP|,MB,T,3:00,NM,R,2:00,0,0,Michael Brook,Nelson McMillan
+"Ju, Xinhai ",702370997,EAPVI/C-EAPVI/B / FP|COMP-III16,CF,T,4:00,RD,R,1:00,0,0,Cynthia Funk,Rosana Dempsey
+"Kaneko, Shinnosuke",702404474,IV/E-V/B / FP|,OK,T,3:00,EL,R,2:00,0,0,Owen Kelly,Elizabeth Lee
+"Kang, Yating",702380786,EAPV/I-V/A / FP|A,MB,M,1:00,NM,R,4:00,0,0,Michael Brook,Nelson McMillan
+"Kannou, Mohamed",702385691,1960s/A-VI/A / FP|,TG,M,4:00,TH,W,1:00,0,0,Thomas Gething,Theresa Hartel
+"Karakurt, Tolga",702386633,ALCS/B-R/FilmV / FP|,KA,M,9:15,TJ,W,8:15,0,0,Kathryn Britton,Theresa Jelenek
+"Kas, Adem",702386605,EAPV/G-GRADVI/B / FP|,XW3,TR,2:00,XP1,MW,2:00,0,0,Christienne Woods,Paula Rusinko
+"Kim, Du Jin",702385789,ALCS/A-R/FilmV / FP|,JB,M,2:00,KA,W,3:00,0,0,Jason Bowser,Kathryn Britton
+"Kim, Juyeun",702385805,IV/E-IV/B / FP|,CL,M,1:00,XCd,T,1:00,0,0,Charles Lutz,Nancy Turner
+"Kuniyoshi, Rui ",702375301,EAPV/A-EAPVI/C / FP|,JB,T,1:00,JE,R,4:00,0,0,Jason Bowser,James Eliason
+"Kwon, Kibeom",702371688,-VAC--VAC / FP|COMP-II15; LL,-,-,-,-,-,-,0,0,-,-
+"Lai, Yunde",702365502,EAPV/E-EAPVI/D / FP|T,NS,T,4:00,NS,R,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Laribi, Seif Elarab",702385338,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Le, Minhao",702369773,EAPVI/F-VI/A / FP|M,EL,M,8:15,PT,W,9:15,0,0,Elizabeth Lee,Patrick Ruffin
+"Lee, Chi-En",702401502,IIID-IV/E / FP|,JF,M,10:30,SS,W,10:30,0,0,Joan French,Saloni Sharma
+"Lee, Jae Mun",702384445,IIIA-IIIB / FP|,JA,M,4:00,MD,W,2:00,0,0,Janice Thompson,Melora Davis
+"Lee, Jeonghwa",702385806,NEWSIV-EAPV/F / FP|,XCd,T,1:00,JB,R,2:00,0,0,Nancy Turner,Jason Bowser
+"Lee, Sang Heon",702383933,IIIB-NONE / LP|,-,-,-,-,-,-,0,0,-,-
+"Li, Chuyao ",702363942,GRADVI-NEWSPAPERS / FP|COMP-III16,JF,M,11:30,KB,W,10:30,0,0,Joan French,Keila Brown
+"Li, Haocheng",702385109,EAPV/I-V/C / FP|A,MZ,M,2:00,JB,W,3:00,0,0,Myrna Zaetta,Jason Bowser
+"Li, Haolun",702256704,BRIDGE-R/FILMVI/A / FP|COMP-V15; -VAC,BR,T,4:00,TH,R,1:00,0,0,Barbara Ohliger,Theresa Hartel
+"Li, Jiahao",702362500,FILM-EAPVI/D / FP|COMP-III16,DW,M,4:00,CL,W,1:00,0,0,Debra Darrell Wolf,Charles Lutz
+"Li, Jian",702385531,IIIC-IV/E / FP|V-16,KG,M,11:30,LF,W,10:30,0,0,Kristin Grant,Lori Fisher
+"Li, Lin",702386398,IIIB-IIB / FP|VI-16,JA,M,5:00,PT,W,1:00,0,0,Janice Thompson,Patrick Ruffin
+"Li, Linqing",702279249,BRIDGE-EAPVI/A / FP|BRIDGE-VAC,OD,T,1:00,-,-,-,0,0,On Demand,-
+"Li, Minghuang ",702357514,EAPV/B-EAPV/E / FP|S,DD,M,10:30,PT,W,11:30,0,0,Dawn Davis,Patrick Ruffin
+"Li, Ping ",702363873,EAPV/B-EAPV/B / FP|O,CC,T,3:00,KA,R,2:00,0,0,Catherine Ciferni,Kathryn Britton
+"Li, Shaoqing ",702364850,EAPV/D-EAPV/B / FP|Q,PT,T,9:15,DR,R,8:15,0,0,Patrick Ruffin,David Robertson
+"Li, Shuyao",702268698,FILM-EAPVI/A / FP|COMP-III16,EL,T,11:30,MZ,R,11:30,0,0,Elizabeth Lee,Myrna Zaetta
+"Li, Tong",702367882,ABCS-GRE/GMAT Prep / FP|PP,XI1,MW,3:00,XCm,R,5:00,0,0,Cynthia Funk,Nancy Turner
+"Li, Xi ",702379665,IV/A-IV/D / FP|,CL,M,2:00,XCk,R,1:00,0,0,Charles Lutz,Nancy Turner
+"Li, Xin",702329142,EAPVI/A-EAPVI/D / FP|Z,JF,M,8:15,XCm,R,5:00,0,0,Joan French,Nancy Turner
+"Li, Xiongyuan",702263333,-IV/E--V/E / FP|,-,-,-,-,-,-,0,0,-,-
+"Li, Yifu",702380413,EAPV/I-EAPV/F / FP|P,WM,T,2:00,MZ,R,3:00,0,0,Basil Maas,Myrna Zaetta
+"Li, Yiting",702400136,IIIB-IIIC / FP|,MD,M,4:00,JA,W,1:00,0,0,Melora Davis,Janice Thompson
+"Li, Yixuan",702363866,EAPV/A-AWB / FP|T,NS,M,1:00,NS,W,5:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Li, Yuhao",702372484,NONE-NONE / FP|Q,-,-,-,-,-,-,0,0,-,-
+"Li, Yujia",702385356,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Li, Zhaowang",702385510,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Li, Zhuoqi ",702363869,EAPV/H-EAPVI/B / FP|R,MB,T,1:00,CL,R,4:00,0,0,Michael Brook,Charles Lutz
+"Liang, Shuyi ",702371925,EAPV/C-GRADVI/B / FP|PP,XP1,MW,2:00,JF,W,1:00,0,0,Paula Rusinko,Joan French
+"Liang, Yi",702268746,DRAMA-R/FILMVI/B / FP|COMP-VI15; X,WM,T,10:30,LF,R,10:30,0,0,Basil Maas,Lori Fisher
+"Liang, Zhoujin",702275976,FILM-VI/C / FP|Z,BR,T,3:00,KG,R,2:00,0,0,Barbara Ohliger,Kristin Grant
+"Lin, Qunzhi ",702346823,EAPVI/A-IV/C / FP|Z,KG,T,8:15,LH,R,9:15,0,0,Kristin Grant,Lee Horzempa
+"Lin, Shuo",702259808,EAPVI/F-EAPVI/E / FP|BRIDGE-Z,CL,M,9:15,PR,W,8:15,0,0,Charles Lutz,Paula Rusinko
+"Lin, Songqing",702365618,AOB/B-EAPV/G / FP|R,XCe,T,3:00,MB,W,3:00,0,0,Nancy Turner,Michael Brook
+"Liu, Changcheng ",702363729,EAPV/F-EAPV/F / FP|O,ME,M,9:15,CL,W,8:15,0,0,M.E. Cathcart,Charles Lutz
+"Liu, Dongying",702366220,1960s/A-NEWSPAPERS / FP|,NS,M,10:30,NS,W,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Liu, Guanhua ",702365205,EAPV/D-EAPV/I / FP|O,PR,T,9:15,PT,R,8:15,0,0,Paula Rusinko,Patrick Ruffin
+"Liu, Jiacheng ",702363877,EAPVI/B-EAPVI/C / FP|H,CL,T,3:00,MB,R,2:00,0,0,Charles Lutz,Michael Brook
+"Liu, Jingyu",702379951,ALCS/D-EAPV/A / FP|RR,ED,T,1:00,OK,R,1:00,0,0,Ella de Courcelle,Owen Kelly
+"Liu, Licun",702266794,DRAMA-R/FILMVI/A / FP|COMP-I15,CC,M,2:00,BS,W,3:00,0,0,Catherine Ciferni,Brady Smith
+"Liu, Lu",702384930,I-IIA / FP|,LH,T,2:00,PT,R,3:00,0,0,Lee Horzempa,Patrick Ruffin
+"Liu, Mengyang",702042126,DRAMA-EAPVI/A / FP|COMP-III15,LH,T,10:30,PT,R,10:30,0,0,Lee Horzempa,Patrick Ruffin
+"Liu, Siyu ",702376929,EAPV/C-VI/C / FP|QQ,OK,M,4:00,LF,W,1:00,0,0,Owen Kelly,Lori Fisher
+"Liu, Wenwen ",702360476,EAPVI/B-R/FILMVI/B / FP|S,PT,T,10:30,WM,R,11:30,0,0,Patrick Ruffin,Basil Maas
+"Liu, Yahan",702266268,BRIDGE-EAPVI/D / FP|COMP-V15,JP,T,4:00,CL,R,2:00,0,0,Jeremy Penna,Charles Lutz
+"Liu, Yaru",702382193,EAPV/G-EAPV/D / FP|SS,XG1,MW,4:00,CF,W,1:00,0,0,Rosana Dempsey,Cynthia Funk
+"Liu, Yichang ",702379588,EAPV/C-EAPV/D / FP|QQ,KH,M,1:00,MH,W,4:00,0,0,To be assigned,Maribeth Hoelmer
+"Liu, Zijian",702386299,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Liu, Zimu",702369632,EAPV/G-EAPV/D / FP|QQ,KH,M,1:00,OK,W,4:00,0,0,To be assigned,Owen Kelly
+"Lo, Chang-Jung ",702386363,IV/A-IIIB / FP|,RP,T,2:00,CM,R,4:00,0,0,Robert Panadero,George Thompson
+"Lopes, Bruno Luiz",702385727,IIID-IV/B / FP|,JA,T,4:00,JN,R,1:00,0,0,Janice Thompson,Julie Stanton Nichols
+"Lu, Hao",702355506,EAPVI/F-EAPV/B / FP|M,KG,M,8:15,KS,W,9:15,0,0,Kristin Grant,Katherine Sheedy
+"Lu, Huimeng",702360487,ALCS/C-EAPV/G / FP|B,RD,M,2:00,XCl,R,3:00,0,0,Rosana Dempsey,Nancy Turner
+"Lu, Shuying",702362509,ALCS/C-EAPV/I / FP|A,PR,T,2:00,KA,R,3:00,0,0,Paula Rusinko,Kathryn Britton
+"Lu, You ",702375511,EAPVI/D-EAPVI/E / FP|M,PR,M,3:00,KA,W,2:00,0,0,Paula Rusinko,Kathryn Britton
+"Luo, Jiaxin ",702362967,EAPVI/C-EAPV/B / FP|COMP-III16,RD,T,3:00,RP,R,2:00,0,0,Rosana Dempsey,Robert Panadero
+"Luo, Qin",702403437,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Luo, Zhengyu",702346201,EAPV/D-EAPVI/F / FP|M,DD,M,9:15,PT,W,8:15,0,0,Dawn Davis,Patrick Ruffin
+"Lyu, Danni",702352089,FILM-GRADVI/B / FP|COMP-III16,RP,T,1:00,RD,R,4:00,0,0,Robert Panadero,Rosana Dempsey
+"Ma, Xiaolei ",702373047,EAPVI/E-R/FILMVI/A / FP|COMP-III16,XCd,T,1:00,JE,R,3:00,0,0,Nancy Turner,James Eliason
+"Ma, Yining ",702362241,EIL-2/B-EAPVI/C / FP|COMP-III16,LH,M,8:15,BS,W,9:15,0,0,Lee Horzempa,Brady Smith
+"Ma, Zhendong",702259624,EAPVI/C-R/FILMVI/B / FP|Z,LH,M,10:30,KS,W,11:30,0,0,Lee Horzempa,Katherine Sheedy
+"Marghalani, Adeeb Adel A",702383241,1960s/B-VI/A / FP|J,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Marsel, Khaled M H F",702382545,EAPV/E-EAPV/C / FP|,OK,M,3:00,CL,W,2:00,0,0,Owen Kelly,Charles Lutz
+"Martin, Daniela",702408367,VOICES-VOICES / FP|,LF,T,3:00,KS,R,2:00,0,0,Lori Fisher,Katherine Sheedy
+"Masoudi, Bayan Khalid M",702372582,EAPVI/B-GRE/GMAT Prep / FP|,XC1,TR,1:00,RK,W,1:00,0,0,Lori Fisher,Robert Kaatz
+"Mata Garcia, Alfredo Rafael",702381526,IIB-IIC / FP|,MD,T,4:00,LH,R,4:00,0,0,Melora Davis,Lee Horzempa
+"Meshaikhis, Nasr Ali N",702387600,EAPV/H-EAPV/I / FP|,NM,T,2:00,CL,R,3:00,0,0,Nelson McMillan,Charles Lutz
+"Miao, Yutian ",702362963,EAPV/B-V/C / FP|A,EL,M,4:00,KA,W,1:00,0,0,Elizabeth Lee,Kathryn Britton
+"Mishkhas, Ali Tarek A",702386071,EAPVI/C-EAP 1 / FP|S,KS,T,1:00,-,-,-,0,0,Katherine Sheedy,-
+"Mo, Binrui",702360797,1960s/A-AWB / FP|A,SC,M,3:00,RK,W,2:00,0,0,Sarah Cornell,Robert Kaatz
+"Monroy Altuzarra, Andrea Julieth ",702384990,ABCS-EAPV/E / FP|,XW2,MW,1:00,XB1,TR,1:00,0,0,Thomas Gething,Chris Pinkerton
+"Moreno Mosquera, Kelis Zulay",702350558,GRADVI-BRIDGE / FP|PP,-,-,-,OD,W,1:00,0,0,-,On Demand
+"Muhlawi, Atif Hamzah M",702373223,GRADVI-GRADVI/B / LP|,-,-,-,-,-,-,0,0,-,-
+"Ni, Binyuan",702341554,FILM-EAPV/G / FP|Z,KS,T,4:00,CL,R,1:00,0,0,Katherine Sheedy,Charles Lutz
+"Ning, Wanfei",702303547,EIL-2/A-R/FILMVI/B / FP|COMP-III16,SC,T,11:30,SP,R,10:30,0,0,Sarah Cornell,Susan Peters
+"Nizamoglu, Ezgi",702386611,EAPV/C-EAPV/C / FP|,XG6,R,2:00,XCa,M,1:00,0,0,Jill McCracken,Nancy Turner
+"Notonagoro, Aginta Sekarpuri",702360774,-EAPV/H--EAPV/H / FP|A,-,-,-,-,-,-,0,0,-,-
+"Obaguy Yamagha, Guyse Fanelie",702386330,IIIB-IIID / FP|III-17,LH,M,1:00,PT,W,4:00,0,0,Lee Horzempa,Patrick Ruffin
+"Oh, Sanghyo",702379839,"-VAC--VAC / FP|-VAC, QQ",-,-,-,-,-,-,0,0,-,-
+"Ortiz Quintero, Doris Lucia",702387608,ALCS/D-V/A / FP|,DW,T,3:00,XCb,M,3:00,0,0,Debra Darrell Wolf,Nancy Turner
+"Pan, Junjie ",702368014,EAPVI/A-R/FILMVI/A / FP|M,DR,T,8:15,KA,R,9:15,0,0,David Robertson,Kathryn Britton
+"Park, Gwangun",702384420,I-IIA / FP|,PT,T,3:00,LH,R,2:00,0,0,Patrick Ruffin,Lee Horzempa
+"Peng, Haoran",702342433,EAPVI/A-EAPVI/E / FP|H,BS,T,9:15,OK,R,9:15,0,0,Brady Smith,Owen Kelly
+"Peng, Jie",702275264,EAPVI/F-EAPV/I / FP|Z,SS,T,9:15,ME,R,8:15,0,0,Saloni Sharma,M.E. Cathcart
+"Peng, Minzhi",702407939,IIA-IIIA / LP|,-,-,-,-,-,-,0,0,-,-
+"Pham, Anh Thi Ngoc",702382575,EAPV/G-R/FilmV / FP|,DW,M,3:00,XCe,T,3:00,0,0,Debra Darrell Wolf,Nancy Turner
+"Pham, Tuan Mai Hoang",702383100,EAPVI/F-PrepEAPVI / FP|M,ME,T,8:15,KB,R,9:15,0,0,M.E. Cathcart,Keila Brown
+"Pu, Yixiao ",702357415,EAPV/I-EAPV/G / FP|Q,NM,T,3:00,BG,R,2:00,0,0,Nelson McMillan,Barbara Gillette
+"Qahtan, Abdulelah Zohair A",702383243,1960s/B-VI/A / FP|,XR1,MW,2:30,XW1,TR,2:30,0,0,Robert Bushong,Bruce Tung
+"Qi, Enhao ",702363936,AOB/A-V/A / FP|S,NS,M,4:00,NS,W,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Qi, Yucheng ",702366324,ALCS/E-EAPV/H / FP|S,NS,T,11:30,NS,R,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Qiao, Dongfei",702360311,EAPV/F-EAPV/I / FP|S,LH,T,9:15,KA,W,9:15,0,0,Lee Horzempa,Kathryn Britton
+"Qin, Li",702274529,-VAC--VAC / FP|COMP-V15,-,-,-,-,-,-,0,0,-,-
+"Qiu, Jiafeng",702233271,-EAPVI/B--EAPV/G / FP|COMP-I15,-,-,-,-,-,-,0,0,-,-
+"Qiu, Qiandi",702381767,NEWSIV-WB / FP|RR,XV1,TR,4:00,MD,R,2:00,0,0,Brady Smith,Melora Davis
+#N/A,999999992,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999999,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999994,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999996,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999993,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999997,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999991,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999995,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,999999998,#N/A,-,-,-,-,-,-,0,0,-,-
+"Ren, Cunqi",702384401,AOB/A-V/A / FP|B,XI1,MW,3:00,XW2,MW,1:00,0,0,Cynthia Funk,Thomas Gething
+"Ren, Hui",702286231,GRADVI-GRADVI/A / FP|PP,KB,M,2:00,SP,W,3:00,0,0,Keila Brown,Susan Peters
+"Ren, Qiao ",702352277,EAPV/F-VI/B / FP|O,EL,T,8:15,ME,R,9:15,0,0,Elizabeth Lee,M.E. Cathcart
+"Ren, Yuanyi ",702364309,EAPV/A-EAPV/F / FP|P,JH,M,2:00,OK,W,3:00,0,0,Jason Hoover,Owen Kelly
+"Ruan, Xueqin",702386365,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Sabi, Faizah Ibrahim D",702403436,--- / LP|,-,-,-,-,-,-,0,0,-,-
+"Sahaka Mahaman Salah, Oumalhere",702407586,ALCS/B-V/E / FP|SS,KG,M,9:15,SS,W,8:15,0,0,Kristin Grant,Saloni Sharma
+"Say, Kubra",702386618,ALCS/C-EAPV/A / FP|,XG6,R,2:00,XCa,M,1:00,0,0,Jill McCracken,Nancy Turner
+"Shamakay, Mohammed Ali M",702328580,AOB/A-V/E / FP|,JN,T,1:00,CS,R,1:00,0,0,Julie Stanton Nichols,Candise Leonard-Schmidling
+"Shamaki, Aysha Ebraheem M",702328589,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Shetaiwi, Hassan Mana H",702386395,BASIC-BASIC / FP|III-17,JA,T,2:00,NB,R,1:00,0,0,Janice Thompson,Nancy Blevins
+"Shi, Jiawei",702273426,VOICES-VOICES / FP|COMP-I15,XCb,M,3:00,SS,W,1:00,0,0,Nancy Turner,Saloni Sharma
+"Shi, Qiao ",702368191,EAPV/B-VI/A / FP|S,NS,T,5:00,NS,R,1:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Shu, Yang",702260743,Entrepreneurship-GRADVI/A / FP|COMP-V15,KA,M,3:00,JH,W,2:00,0,0,Kathryn Britton,Jason Hoover
+"Si, Qi",702366514,EAPV/F-EAPV/B / FP|T,NS,T,9:15,NS,R,8:15,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Sierra Rosario, Dayri",702352070,IV/B-IV/A / FP|,KA,T,10:30,PT,R,11:30,0,0,Kathryn Britton,Patrick Ruffin
+"Sirdab, Hussain Yahya M",702266038,IV/A-IIIA / FP|,RD,T,1:00,LH,R,1:00,0,0,Rosana Dempsey,Lee Horzempa
+"Song, Ruiyan ",702368732,FILM-EAPVI/B / FP|T,OK,T,2:00,JB,R,3:00,0,0,Owen Kelly,Jason Bowser
+"Song, Yue ",702371592,1960s/A-GRADVI/B / FP|PP,NS,M,3:00,NS,W,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Su, Fanxiang",702380185,EAPV/D-V/D / FP|O,WM,T,8:15,LF,R,9:15,0,0,Basil Maas,Lori Fisher
+"Su, Xiaoyi",702381678,EAPV/E-EAPV/C / FP|R,TJ,T,2:00,RD,R,3:00,0,0,Theresa Jelenek,Rosana Dempsey
+"Su, Xinze",702372929,DRAMA-VI/C / FP|COMP-III16,NS,T,1:00,NS,R,5:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Sui, Jingbo",702400100,ALCS/A-IV/E / FP|,KG,M,10:30,MZ,W,10:30,0,0,Kristin Grant,Myrna Zaetta
+"Sun, Cheng",702385361,AOB/B-EAPV/G / FP|A,RP,M,4:00,CC,W,1:00,0,0,Robert Panadero,Catherine Ciferni
+"Sun, Rong",702263941,DRAMA-R/FILMVI/B / FP|COMP-III16,KB,T,10:30,OK,R,10:30,0,0,Keila Brown,Owen Kelly
+"Sun, Weifan",702369979,VOICES-VOICES / FP|COMP-III16,XW2,MW,1:00,OK,W,2:00,0,0,Thomas Gething,Owen Kelly
+"Sun, Xinxian",702339793,EAPVI/A-EAPV/G / FP|Z,LH,M,9:15,KS,W,8:15,0,0,Lee Horzempa,Katherine Sheedy
+"Sun, Yu",702300813,Entrepreneurship-GRADVI/B / FP|PP,JH,M,4:00,JA,W,4:00,0,0,Jason Hoover,Janice Thompson
+"Taher, Abdullah Adnan A",702386065,VOICES-VOICES / FP|P,-,-,-,MZ,W,4:00,0,0,-,Myrna Zaetta
+"Tan, Jiasheng ",702363738,ALCS/E-R/FILMVI/A / FP|M,TG,T,2:00,KB,R,3:00,0,0,Thomas Gething,Keila Brown
+"Tang, Runzhe ",702328754,VOICES-VOICES / FP|COMP-I15,CC,M,4:00,OK,W,1:00,0,0,Catherine Ciferni,Owen Kelly
+"Tang, Shuai ",702372483,EAPVI/C-NEWSPAPERS / FP|J,NS,M,11:30,NS,W,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Tang, Weijian",702360802,EIL-2/A-PrepEAPVI / FP|H,EL,T,2:00,MB,R,3:00,0,0,Elizabeth Lee,Michael Brook
+"Tang, Yinghua",702354124,EAPVI/B-EAPVI/E / FP|COMP-III16,MH,M,2:00,RD,W,3:00,0,0,Maribeth Hoelmer,Rosana Dempsey
+"Tantoush, Abdulaziz Omar Ali",702384138,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Tasci, Yasemin",702386634,IV/E-V/B / FP|,XCk,R,1:00,TG,T,3:00,0,0,Nancy Turner,Thomas Gething
+"Taylan, Hasan",702386616,EAPV/C-R/FILMVI/A / FP|,MH,M,1:00,XW3,TR,2:00,0,0,Maribeth Hoelmer,Christienne Woods
+"Tehaifah, Hassan Salman H",702336702,IV/D-WB / FP|,KA,T,9:15,CS,M,9:15,0,0,Kathryn Britton,Candise Leonard-Schmidling
+"Tekin, Alaeddin",702386607,IIID-IV/B / FP|,XG1,MW,4:00,RP,R,4:00,0,0,Rosana Dempsey,Robert Panadero
+"Teles Resende, Brendon Wesley",702383986,IIIC-IIIB / FP|,MZ,M,1:00,PT,W,5:00,0,0,Myrna Zaetta,Patrick Ruffin
+"Tian, Bin ",702005990,-VAC--VAC / FP|COMP-VI15,-,-,-,-,-,-,0,0,-,-
+"Tian, Peiyu",702380812,EAPVI/A-EAPV/C / FP|P,XCf,T,5:00,ME,W,9:15,0,0,Nancy Turner,M.E. Cathcart
+"Tian, Pusen",702359412,EAPV/H-EAPV/F / FP|R,MZ,M,3:00,RD,W,2:00,0,0,Myrna Zaetta,Rosana Dempsey
+"Tian, Yu",702254175,EAPVI/B-R/FILMVI/A / FP|COMP-III16,KA,M,2:00,CC,W,3:00,0,0,Kathryn Britton,Catherine Ciferni
+"Topcuoglu, Ahmet",702373670,EIL-2/B-GRADVI/A / FP|,JF,M,9:15,XCf,T,5:00,0,0,Joan French,Nancy Turner
+"Turhan, Sait Serif",702386626,ALCS/A-V/B / FP|,XB1,TR,1:00,SC,W,1:00,0,0,Chris Pinkerton,Sarah Cornell
+"Vasquez Saldana, Dolly Mabel",702398765,IIIA-IV/B / FP|,TJ,T,1:00,DR,R,1:00,0,0,Theresa Jelenek,David Robertson
+"Vechpanich, Patchareeya",702383369,Entrepreneurship-GRADVI/A / FP|PP,EH,M,4:00,SC,W,3:00,0,0,Elaine Heyden,Sarah Cornell
+"Vergara Posada, Sylvia",702407659,AOB/B-AWB / FP|,SS,M,1:00,JE,T,3:00,0,0,Saloni Sharma,James Eliason
+"Wan, Miao",702382737,EIL-2/A-EAPV/C / FP|Q,CF,T,1:00,CF,R,4:00,0,0,Cynthia Funk,Cynthia Funk
+"Wang, Benteng ",702384086,IV/C-IV/C / FP|V-16,OK,M,1:00,BS,R,2:00,0,0,Owen Kelly,Brady Smith
+"Wang, Chia-Yin",702385403,AOB/A-WB / LP|,-,-,-,-,-,-,0,0,-,-
+"Wang, Chuwen ",702360303,EAPV/F-EAPV/F / FP|R,BS,T,8:15,JF,W,9:15,0,0,Brady Smith,Joan French
+"Wang, Di ",702369415,EAPV/H-EAPV/G / FP|R,KH,M,2:00,LF,W,3:00,0,0,To be assigned,Lori Fisher
+"Wang, Ding ",702292189,EIL-2/B-GRE/GMAT Prep / FP|COMP-VI15,TJ,M,9:15,BS,W,8:15,0,0,Theresa Jelenek,Brady Smith
+"Wang, Jianyi ",701586065,GRADVI-GRADVI/B / FP|SS,XCe,T,3:00,EL,W,2:00,0,0,Nancy Turner,Elizabeth Lee
+"Wang, Jingyi ",702385807,-VAC--VAC / FP|,-,-,-,-,-,-,0,0,-,-
+"Wang, Junfeng",702354793,IV/E-IV/E / FP|P,PR,M,11:30,TJ,W,10:30,0,0,Paula Rusinko,Theresa Jelenek
+"Wang, Liang",702373952,IV/C-AWB / FP|B,TG,M,3:00,MZ,W,2:00,0,0,Thomas Gething,Myrna Zaetta
+"Wang, Mengjia",702349076,ALCS/E-EAPV/F / FP|B,MH,M,3:00,SC,W,2:00,0,0,Maribeth Hoelmer,Sarah Cornell
+"Wang, Panyu ",702362331,IIIB-IV/E / FP|V-16,NS,M,10:30,KB,R,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Keila Brown
+"Wang, Pengzhi",702300747,DRAMA-EAPV/G / FP|Z,EL,T,3:00,KE,R,2:00,0,0,Elizabeth Lee,Karen Eliason
+"Wang, Ruotong ",702352767,DRAMA-R/FILMVI/A / FP|COMP-III16,KB,M,4:00,XW3,TR,2:00,0,0,Keila Brown,Christienne Woods
+"Wang, Rutao",702369468,EAPV/G-EAPV/D / FP|SS,XP1,MW,2:00,RP,W,1:00,0,0,Paula Rusinko,Robert Panadero
+"Wang, Shiyuan",702369849,VOICES-VOICES / FP|COMP-III16,NS,M,2:00,NS,W,4:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Wang, Xiaoran",702360301,EAPVI/D-EAPVI/C / FP|H,NS,T,2:00,NS,R,4:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Wang, Xinruo",702019755,EAPV/C-VI/B / FP|,SS,M,2:00,NB,W,4:00,0,0,Saloni Sharma,Nancy Blevins
+"Wang, Xinyu",702363885,EAPVI/A-EAPVI/F / FP|H,KB,T,8:15,KA,R,8:15,0,0,Keila Brown,Kathryn Britton
+"Wang, Xue ",702280013,1960s/A-EAPVI/D / FP|COMP-I15,KH,M,1:00,EL,W,4:00,0,0,To be assigned,Elizabeth Lee
+"Wang, Yanjun",702372147,EAPV/D-EAPV/B / FP|P,CL,M,8:15,LF,W,9:15,0,0,Charles Lutz,Lori Fisher
+"Wang, Yanqiu ",702368350,EIL-2/A-NEWSPAPERS / FP|QQ,ME,M,10:30,KA,W,10:30,0,0,M.E. Cathcart,Kathryn Britton
+"Wang, Yatian",702349130,EAPVI/D-VI/A / FP|COMP-III16,TG,T,1:00,JB,R,4:00,0,0,Thomas Gething,Jason Bowser
+"Wang, Yuekui",702363111,EAPV/H-IV/D / FP|B,EH,M,2:00,JH,W,3:00,0,0,Elaine Heyden,Jason Hoover
+"Wang, Zekai",702344206,1960s/B-EAPVI/A / FP|COMP-I15,CL,M,11:30,RK,W,10:30,0,0,Charles Lutz,Robert Kaatz
+"Wang, Zhaoyuan ",702268039,1960s/A-EAPVI/F / FP|COMP-IV15,BR,T,2:00,SC,R,3:00,0,0,Barbara Ohliger,Sarah Cornell
+"Wang, Zhi",702375143,FILM-EAPVI/F / FP|COMP-III16,BG,M,3:00,BS,W,2:00,0,0,Barbara Gillette,Brady Smith
+"Wasili, Mona Soleiman A",702383019,IIIA-IIB / FP|,BG,M,2:00,JN,R,2:00,0,0,Barbara Gillette,Julie Stanton Nichols
+"Wen, Xinyu ",702386469,IV/E-IV/C / FP|V-16,MD,T,2:00,PT,R,4:00,0,0,Melora Davis,Patrick Ruffin
+"Wen, Yichuan ",702363900,EAPVI/F-EAPV/B / FP|O,PT,T,8:15,KG,R,9:15,0,0,Patrick Ruffin,Kristin Grant
+"Weng, Jie",702373959,EAPV/E-V/E / FP|Q,WM,T,3:00,LF,R,2:00,0,0,Basil Maas,Lori Fisher
+"Whi, Inho ",702363734,EIL-2/B-EAPV/F / FP|J,OK,M,9:15,RK,W,8:15,0,0,Owen Kelly,Robert Kaatz
+"Wu, Jiaru ",702375513,EAPV/E-EAPV/E / FP|R,ME,T,10:30,TJ,R,10:30,0,0,M.E. Cathcart,Theresa Jelenek
+"Wu, Junjie ",702364331,IV/D-EAPV/I / FP|B,KB,T,9:15,SP,R,9:15,0,0,Keila Brown,Susan Peters
+"Wu, Kailiang ",702368751,EAPVI/D-VI/B / FP|J,NM,M,4:00,RD,W,1:00,0,0,Nelson McMillan,Rosana Dempsey
+"Wu, Kongfa",702384666,AOB/B-EAPV/A / FP|SS,KB,M,1:00,BG,W,4:00,0,0,Keila Brown,Barbara Gillette
+"Wu, Qian",702280006,-EAPV/A--EAPV/G / FP|wd-Z,-,-,-,-,-,-,0,0,-,-
+"Wu, Xiaoduo ",702367546,IV/C-V/C / FP|A,NS,M,3:00,NS,W,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Wu, Xuhui ",702362497,FILM-EAPVI/A / FP|COMP-III16,MZ,M,10:30,TJ,W,11:30,0,0,Myrna Zaetta,Theresa Jelenek
+"Wu, Zifei ",702366302,1960s/B-EAPVI/E / FP|U,MZ,T,4:00,KG,R,1:00,0,0,Myrna Zaetta,Kristin Grant
+"Wu, Zijian ",702363742,EAPV/B-EAPV/I / FP|P,NS,T,3:00,NS,R,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xiang, Siyuan ",702362498,VOICES-VOICES / FP|COMP-III16,PR,T,3:00,JM,W,3:00,0,0,Paula Rusinko,Jill McCracken
+"Xiang, Yang ",702372231,IV/B-R/FilmV / FP|,NS,M,4:00,NS,W,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xiao, Qian ",702386548,ALCS/B-EAPV/C / FP|,DR,M,8:15,XCf,T,5:00,0,0,David Robertson,Nancy Turner
+"Xin, Xin",702377166,EAPVI/C-EAPV/G / FP|Q,JE,T,2:00,XCl,R,3:00,0,0,James Eliason,Nancy Turner
+"Xiong, Lianbing ",702363872,EAPVI/A-EAPVI/B / FP|M,JD,M,9:15,RK,W,9:15,0,0,Jiadou La,Robert Kaatz
+"Xiong, Qiyun",702364487,EAPVI/A-PrepEAPVI / FP|H,EL,T,9:15,PT,R,9:15,0,0,Elizabeth Lee,Patrick Ruffin
+"Xiong, Ruqi",702368402,EAPVI/E-EAPVI/A / FP|T,TJ,M,11:30,PT,W,10:30,0,0,Theresa Jelenek,Patrick Ruffin
+"Xiong, Wei ",702381692,ALCS/D-VI/B / FP|P,NS,M,5:00,NS,W,1:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xu, Haonan",702290235,EAPVI/B-NEWSPAPERS / FP|COMP-I15,MZ,T,10:30,KA,R,10:30,0,0,Myrna Zaetta,Kathryn Britton
+"Xu, Kaiwen",702365258,ALCS/C-AWB / FP|Q,SC,T,1:00,ME,R,4:00,0,0,Sarah Cornell,M.E. Cathcart
+"Xu, Rui",702268740,EAPVI/F-R/FILMVI/A / FP|COMP-VI15,ME,T,9:15,PT,R,5:00,0,0,M.E. Cathcart,Patrick Ruffin
+"Xu, Siyu",702364549,EAPVI/B-EAPVI/D / FP|COMP-III16,NS,T,5:00,NS,R,1:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xu, Wenwen ",702380406,EAPVI/F-EAPVI/B / FP|O,NS,M,8:15,NS,W,9:15,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xu, Yijiang ",702372313,Entrepreneurship-GRADVI/A / FP|QQ,CC,T,2:00,PR,R,3:00,0,0,Catherine Ciferni,Paula Rusinko
+"Xu, Yuqiao",702361900,EAPVI/C-R/FILMVI/A / FP|O,NS,M,2:00,NS,W,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Xu, Zizhuo ",702363917,ALCS/D-EAPV/E / FP|V-16,EL,T,10:30,BS,R,10:30,0,0,Elizabeth Lee,Brady Smith
+"Yan, Jiepeng ",702326979,EAPVI/D-EAPVI/A / FP|COMP-II15,NS,M,10:30,NS,W,11:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Yan, Yina",702360317,BRIDGE-R/FILMVI/A / FP|BRIDGE-N,NS,M,1:00,-,-,-,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,-
+"Yang, Chen",702386744,IIA-IIIB / FP|VI-16,JA,M,2:00,LH,W,3:00,0,0,Janice Thompson,Lee Horzempa
+"Yang, Linjing",702343462,EAPVI/C-R/FILMVI/B / FP|COMP-I15;E,OK,T,10:30,CS,R,10:30,0,0,Owen Kelly,Candise Leonard-Schmidling
+"Yang, Puming",702386198,GRADVI-EAPV/D / FP|RR,JM,T,3:00,XW3,TR,2:00,0,0,Jill McCracken,Christienne Woods
+"Yang, Wanjie ",702362036,AOB/A-V/A / FP|B,NS,M,1:00,NS,W,5:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Yang, Xiaowei",702383102,IIIA-IIID / FP|V-16,CM,M,3:00,JF,W,3:00,0,0,George Thompson,Joan French
+"Yang, Yicheng",702041392,EAPVI/F-EAPVI/E / FP|COMP-V15,PR,M,8:15,SS,W,9:15,0,0,Paula Rusinko,Saloni Sharma
+"Yang, Yueqian",702341905,GRADVI-GRADVI/A / FP|COMP-III16,KB,M,3:00,SP,W,2:00,0,0,Keila Brown,Susan Peters
+"Yang, Yun",702360309,EAPVI/A-EAPVI/E / FP|O,SS,T,8:15,TJ,R,9:15,0,0,Saloni Sharma,Theresa Jelenek
+"Yesil Ozden, Ayse",702386915,AOB/B-V/A / FP|,BS,T,2:00,EL,R,3:00,0,0,Brady Smith,Elizabeth Lee
+"Yildirim, Feyza Nur",702386613,NEWSIV-AHISTV / FP|,SC,M,2:00,XW2,MW,1:00,0,0,Sarah Cornell,Thomas Gething
+"Yilmaz, Dudu",702396527,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Yin, Hanwen",702346180,ALCS/B-EAPV/B / FP|B,EL,M,9:15,MZ,W,9:15,0,0,Elizabeth Lee,Myrna Zaetta
+"Yin, Pingyang",702268233,EAPVI/D-EAPVI/E / FP|Z,KG,T,1:00,KB,R,4:00,0,0,Kristin Grant,Keila Brown
+"Yin, Qi ",702363660,EAPVI/A-EAPVI/D / FP|COMP-III16,TJ,M,8:15,KE,W,1:00,0,0,Theresa Jelenek,Karen Eliason
+"Yolcu, Ahmet Emirhan",702386606,ALCS/C-EAPV/A / FP|,XP1,MW,2:00,XW2,MW,1:00,0,0,Paula Rusinko,Thomas Gething
+"Yoshida, Mai ",702375302,EAPV/I-EAPV/I / FP|,XCd,T,1:00,LF,R,3:00,0,0,Nancy Turner,Lori Fisher
+"Younesi Heravi, Nooshin",702385083,EIL-2/A-VI/C / FP|,XCd,T,1:00,LF,W,2:00,0,0,Nancy Turner,Lori Fisher
+"Yozgatli, Melike",702386620,NEWSIV-IV/A / FP|,OK,M,11:30,XB1,TR,1:00,0,0,Owen Kelly,Chris Pinkerton
+"Yu, Ji",702386908,EAPV/C-EAPV/D / FP|SS,EH,M,3:00,TH,W,2:00,0,0,Elaine Heyden,Theresa Hartel
+"Yu, Kuo",702357168,EAPV/B-EAPV/I / FP|T,KG,M,4:00,RK,W,4:00,0,0,Kristin Grant,Robert Kaatz
+"Yu, Muhan",702386162,EAPV/H-EAPV/C / FP|V-16,KA,T,2:00,BG,W,3:00,0,0,Kathryn Britton,Barbara Gillette
+"Yu, Qianqian ",702386059,EAPV/G-EAPV/D / FP|RR,WM,T,4:00,CC,R,4:00,0,0,Basil Maas,Catherine Ciferni
+"Yu, Suling",702383004,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Yuan, Bowen",702368613,EAPV/C-EAPV/A / FP|QQ,JB,M,4:00,RP,W,2:00,0,0,Jason Bowser,Robert Panadero
+"Zeng, Ruixue",702339222,1960s/A-EAPVI/B / FP|COMP-II15,RP,T,4:00,LF,R,4:00,0,0,Robert Panadero,Lori Fisher
+"Zhang, Ao ",702357516,-VAC--VAC / FP|COMP-III16,-,-,-,-,-,-,0,0,-,-
+"Zhang, Boyao",702277753,GRADVI-GRADVI/A / FP|COMP-I15,CF,M,4:00,NM,W,1:00,0,0,Cynthia Funk,Nelson McMillan
+"Zhang, Jiahao ",702355311,EAPV/A-EAPV/I / FP|T,CL,M,4:00,KB,W,2:00,0,0,Charles Lutz,Keila Brown
+"Zhang, Qingsen ",702356918,EAPVI/E-PrepEAPVI / FP|T,CF,M,2:00,XCg,W,1:00,0,0,Cynthia Funk,Nancy Turner
+"Zhang, Rong ",702368025,EAPVI/B-EAPV/I / FP|U,CC,M,3:00,JM,W,2:00,0,0,Catherine Ciferni,Jill McCracken
+"Zhang, Siyang",702387935,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Zhang, Taoxia ",702386381,I-IIA / FP|II-17,JN,T,4:00,MD,R,1:00,0,0,Julie Stanton Nichols,Melora Davis
+"Zhang, Wei ",702372154,EAPVI/E-EAPVI/A / FP|Q,KG,T,10:30,ME,R,11:30,0,0,Kristin Grant,M.E. Cathcart
+"Zhang, Xinhao",702272104,EAPVI/E-EAPV/E / FP|M,NS,T,11:30,NS,R,10:30,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Zhang, Xinyun",702385400,ALCS/E-V/D / FP|,CL,T,2:00,CF,R,3:00,0,0,Charles Lutz,Cynthia Funk
+"Zhang, Xiwen ",702368915,EAPV/H-V/E / FP|M,MB,T,2:00,BG,R,4:00,0,0,Michael Brook,Barbara Gillette
+"Zhang, Xiwen ",702369293,EAPV/F-EAPVI/F / FP|COMP-III16,PR,T,8:15,TJ,R,8:15,0,0,Paula Rusinko,Theresa Jelenek
+"Zhang, Yaxin ",702373931,EAPVI/E-EAPV/F / FP|J,NS,T,3:00,NS,R,2:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Zhang, Yi",702386382,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Zhang, Yifan",702366326,EAPV/A-EAPV/H / FP|U,SC,T,10:30,LF,R,11:30,0,0,Sarah Cornell,Lori Fisher
+"Zhang, Yimin",702394397,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Zhang, Ying ",702356300,EAPV/B-EAPV/E / FP|U,KA,M,11:30,CL,W,10:30,0,0,Kathryn Britton,Charles Lutz
+"Zhang, Yueran",702386914,EAPV/C-EAPV/A / FP|SS,MZ,M,4:00,DR,W,1:00,0,0,Myrna Zaetta,David Robertson
+"Zhang, Zhihao ",702368409,IV/A-IIID / FP|V-16,CF,T,2:00,KG,R,3:00,0,0,Cynthia Funk,Kristin Grant
+"Zhao, Bin ",702364321,ALCS/A-IV/D / FP|A,NS,M,2:00,NS,W,3:00,0,0,Must see KH by Thurs. of Wk. 2 to schedule tutors.,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Zhao, Jinding ",702354402,EAPV/I-EAPV/H / FP|O,PR,M,10:30,BS,W,11:30,0,0,Paula Rusinko,Brady Smith
+"Zhao, Qihan",702380872,EAPV/C-EAPV/D / FP|QQ,DR,T,2:00,TG,R,3:00,0,0,David Robertson,Thomas Gething
+"Zhao, Tianhao",702368401,EAPVI/C-EAPVI/E / FP|COMP-III16,JH,T,1:00,EL,R,4:00,0,0,Jason Hoover,Elizabeth Lee
+"Zhao, Tong",702381789,1960s/A-EAPVI/A / FP|U,LF,T,10:30,PR,R,11:30,0,0,Lori Fisher,Paula Rusinko
+"Zhao, Wenbo",702380876,EAPV/G-GRADVI/A / FP|QQ,KH,M,1:00,NM,W,4:00,0,0,To be assigned,Nelson McMillan
+"Zhao, Wenjie",702340590,IIIA-IIA / FP|VI-16,JN,T,3:00,MD,R,3:00,0,0,Julie Stanton Nichols,Melora Davis
+"Zhao, Wenqi",702326972,EAPVI/C-EAPVI/F / FP|COMP-III16,JH,T,4:00,MB,R,1:00,0,0,Jason Hoover,Michael Brook
+"Zhao, Ziyu",702361699,EAPVI/E-BRIDGE / FP|BRIDGE-J,-,-,-,NS,R,1:00,0,0,-,Must see KH by Thurs. of Wk. 2 to schedule tutors.
+"Zhen, Shangren ",702385380,-EIL-2/B--EAPVI/D / FP|,-,-,-,-,-,-,0,0,-,-
+"Zheng, Long",702386197,IIB-IIIC / FP|VI-16,MD,M,3:00,NB,W,2:00,0,0,Melora Davis,Nancy Blevins
+"Zheng, Yulin",702342561,-ABCS--GRADVI/A / FP|PP,-,-,-,-,-,-,0,0,-,-
+"Zhong, Mingyuan",702364457,EAPV/F-VI/B / FP|U,JD,T,9:15,MZ,R,9:15,0,0,Jiadou La,Myrna Zaetta
+"Zhong, Zhisheng",702268230,VOICES-VOICES / FP|COMP-V15,XCb,M,3:00,BS,W,4:00,0,0,Nancy Turner,Brady Smith
+"Zhou, Jing",702387910,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Zhou, Ruoran",702386263,AOB/A-EAPV/A / FP|RR,DR,T,4:00,NM,R,1:00,0,0,David Robertson,Nelson McMillan
+"Zhou, Xiaoyuan ",702362743,Entrepreneurship-GRE/GMAT Prep / FP|COMP-III16,XI1,MW,3:00,XCm,R,5:00,0,0,Cynthia Funk,Nancy Turner
+"Zhou, Yue ",702365145,EAPV/A-EAPV/I / FP|U,KH,M,1:00,RP,W,4:00,0,0,To be assigned,Robert Panadero
+"Zhu, Chenming",702387592,--- / FP|,-,-,-,-,-,-,0,0,-,-
+"Zhu, Junling ",702381799,ALCS/B-EAPV/C / FP|,MZ,M,9:15,LF,W,8:15,0,0,Myrna Zaetta,Lori Fisher
+"Zhu, Nan",702385680,IV/A-IV/D / FP|,JP,T,2:00,MB,R,4:00,0,0,Jeremy Penna,Michael Brook
+"Zhu, Shuai",702350206,1960s/B-VI/C / FP|COMP-II15,JH,M,3:00,NM,W,2:00,0,0,Jason Hoover,Nelson McMillan
+"Zhu, Weirong",702354373,EAPV/A-EAPV/H / FP|U,CS,M,10:30,PR,W,11:30,0,0,Candise Leonard-Schmidling,Paula Rusinko
+"Zhu, Yi ",702360472,EAPV/H-VI/C / FP|U,DR,T,1:00,SP,R,4:00,0,0,David Robertson,Susan Peters
+"Zhu, Yiling",702360473,1960s/B-EAPVI/F / FP|COMP-III16,DW,M,2:00,MH,W,3:00,0,0,Debra Darrell Wolf,Maribeth Hoelmer
+"Zhuang, Yingqi",702395554,ALCS/C-EAPV/H / FP|V-16,XCf,T,5:00,MZ,R,10:30,0,0,Nancy Turner,Myrna Zaetta
+"Aljohani, Majdi Ahmed A",702291682,IV/E-IV/E / FP|,BS,T,10:30,LH,R,10:30,0,0,Brady Smith,Lee Horzempa
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
+#N/A,,#N/A,-,-,-,-,-,-,0,0,-,-
