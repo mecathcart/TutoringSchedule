@@ -6,7 +6,7 @@
 
 <p>Tutoring Schedule</p>
 
- Family Name, First Name: <input type = "text" id = "studentName" value = "some text" ></text><br> <p>
+ Family Name, First Name: <input type = "text" id = "studentName" value = "student name" ></text><br> <p>
 <input type = "button" class="button" onClick = "tutorSchedule()" value = "Submit"></input> <p>
 
 
@@ -34,7 +34,7 @@ function LoadFile() {
 
 
 
-/*this function takes the input of the student's name and returns the 65 characters that follows it. 
+/*this function takes the input of the student's name and returns the line that follows it
 */
 var tutorSchedule = function() {
 
@@ -43,13 +43,16 @@ var tutorSchedule = function() {
     while (strRawContents.indexOf("\r") >= 0)
         strRawContents = strRawContents.replace("\r", "");
    var arrLines = strRawContents.split("\n");
-  //  console.log("File " + oFrame.src + " has " + arrLines.length + " lines");
     for (var i = 0; i < arrLines.length; i++) {
     	var studentName = document.getElementById("studentName").value;
     	var curLine = arrLines[i];
+    	curLine.split(",");
     	var n = curLine.search(studentName);
-  		if(n === 1){
-  			document.getElementById("demo").innerHTML = curLine;
+
+  		if(n > 0){
+  			var div = document.createElement('div');
+  			document.body.appendChild(div);
+  			div.innerHTML = curLine;
 
   		}
        
