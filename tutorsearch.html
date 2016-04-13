@@ -2,7 +2,7 @@
 <html>
   <script type="text/javascript" charset="utf-8" src="./papaparse.js"></script>
 <body>
-<iframe id="frmFile" src="masterSchedule.txt" onload="LoadFile();" style="display: none;"></iframe>
+<iframe id="frmFile" src="masterSchedule.txt"  style="display: none;"></iframe>
 
 <p>Tutoring Schedule</p>
 
@@ -13,24 +13,6 @@
 <p id="demo"></p>
 
 <script>
-
-
-
-
-
-function LoadFile() {
-    var oFrame = document.getElementById("frmFile");
-    var strRawContents = oFrame.contentWindow.document.body.childNodes[0].innerHTML;
-    while (strRawContents.indexOf("\r") >= 0)
-        strRawContents = strRawContents.replace("\r", "");
-   var arrLines = strRawContents.split("\n");
-  //  console.log("File " + oFrame.src + " has " + arrLines.length + " lines");
-    for (var i = 0; i < arrLines.length; i++) {
-        var curLine = arrLines[i];
-//       console.log("Line #" + (i + 1) + " is: '" + curLine + "'");
-    }
- 
-}
 
 
 
@@ -46,13 +28,44 @@ var tutorSchedule = function() {
     for (var i = 0; i < arrLines.length; i++) {
     	var studentName = document.getElementById("studentName").value;
     	var curLine = arrLines[i];
-    	curLine.split(",");
+
+    	
+
+
+    	//console.log(studentSchedule[4]+studentSchedule[5] +studentSchedule[6]);
     	var n = curLine.search(studentName);
 
   		if(n > 0){
+  			//make curLine look pretty
+    		curLine = curLine.split('"').join('');
+    		var studentSchedule = curLine.split(",");
+
+			switch (studentSchedule[5]) {
+			    
+			    case "M":
+			        studentSchedule[5] = "Monday";
+			        break;
+			    case "T":
+			         studentSchedule[5] = = "Tuesday";
+			        break;
+			    case "W":
+			         studentSchedule[5] = = "Wednesday";
+			        break;
+			    case "R":
+			         studentSchedule[5] = = "Thursday";
+			        break;
+			    case "F":
+			         studentSchedule[5] = = "Friday";
+			        break;
+			
+			}
+
+
+
   			var div = document.createElement('div');
   			document.body.appendChild(div);
-  			div.innerHTML = curLine;
+  			console.log(studentSchedule[1]);
+  			div.innerHTML = studentSchedule[0] +","+ studentSchedule[1] +":" + "<br>"+ studentSchedule[12] + " "+studentSchedule[5];
 
   		}
        
