@@ -64,8 +64,10 @@ var tutorSchedule = function() {
 
   			var div = document.createElement('div');
   			document.body.appendChild(div);
-  			console.log(studentSchedule[1]);
-  			div.innerHTML = studentSchedule[0] +","+ studentSchedule[1] +":" + "<br>"+ studentSchedule[12] + " "+studentSchedule[5] +" "+studentSchedule[6];
+  			//console.log(studentSchedule[1]);
+  			div.innerHTML = studentSchedule[0] +","+ studentSchedule[1] +":" + 
+  			"<br>"+ "Tutor 1: "+studentSchedule[12] + " "+studentSchedule[5] +" "+studentSchedule[6] +" "+studentSchedule[10]+ 
+  			"<br>"+ "Tutor 2: "+studentSchedule[13] + " "+studentSchedule[8] +" "+studentSchedule[9] +" "+studentSchedule[11];
 
   		}
        
