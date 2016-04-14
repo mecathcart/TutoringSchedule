@@ -14,25 +14,29 @@
 
 <script>
 
+var clearDiv = function(){
+	if(document.getElementsByClassName("schedule")){
+		var elements = document.getElementsByClassName("schedule");
+		while(elements.length > 0){
+        elements[0].parentNode.removeChild(elements[0]);
+    }
+	};
+};
 
-
-/*this function takes the input of the student's name and returns the line that follows it
-*/
+/*this function takes the input of the student's name and returns the student's schedule */
 var tutorSchedule = function() {
+	
+	clearDiv();
 
  	var oFrame = document.getElementById("frmFile");
     var strRawContents = oFrame.contentWindow.document.body.childNodes[0].innerHTML;
     while (strRawContents.indexOf("\r") >= 0)
         strRawContents = strRawContents.replace("\r", "");
-   var arrLines = strRawContents.split("\n");
+    var arrLines = strRawContents.split("\n");
     for (var i = 0; i < arrLines.length; i++) {
     	var studentName = document.getElementById("studentName").value;
     	var curLine = arrLines[i];
 
-    	
-
-
-    	//console.log(studentSchedule[4]+studentSchedule[5] +studentSchedule[6]);
     	var n = curLine.search(studentName);
 
   		if(n > 0){
@@ -59,12 +63,10 @@ var tutorSchedule = function() {
 			        break;
 			
 			}
-
-
-
+			//prints out results
   			var div = document.createElement('div');
+  			div.className = "schedule";
   			document.body.appendChild(div);
-  			//console.log(studentSchedule[1]);
   			div.innerHTML = studentSchedule[0] +","+ studentSchedule[1] +":" + 
   			"<br>"+ "Tutor 1: "+studentSchedule[12] + " "+studentSchedule[5] +" "+studentSchedule[6] +" "+studentSchedule[10]+ 
   			"<br>"+ "Tutor 2: "+studentSchedule[13] + " "+studentSchedule[8] +" "+studentSchedule[9] +" "+studentSchedule[11];
@@ -72,11 +74,6 @@ var tutorSchedule = function() {
   		}
        
     }
-
-
-
-
-
 
 }
 
