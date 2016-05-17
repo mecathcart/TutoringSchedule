@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+        <p>Tutoring Schedule</p>
+        
+         <form>
+ Family Name, First Name:             <input type="text" value=" " name ="studentName"/>
+                                      <input type="button" onClick="formSubmit()" value = "Submit"></input> <p>
+         </form>
+
+
+  <div id="output"></div>
+  
+  
+<script  type="text/javascript">
+
+ function formSubmit() {
+ 
+        
+google.script.run.withSuccessHandler(onSuccess).tutorSchedule(document.forms[0]);
+
+}
+
+
+ 
+// var studentName = document.getElementById("studentName").value;
+
+
+
+
+
+
+ function onSuccess(schedule) {
+       
+        var div = document.getElementById('output');
+        div.innerHTML = 'Student Schedule = ' + schedule;
+            
+      }
+
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+
+

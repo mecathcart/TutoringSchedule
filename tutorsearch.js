@@ -13,7 +13,6 @@
 <p id="demo"></p>
 
 <script>
-/*this function clears the divs from old searches */
 
 var clearDiv = function(){
 	if(document.getElementsByClassName("schedule")){
