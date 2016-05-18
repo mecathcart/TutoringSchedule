@@ -4,39 +4,31 @@
     <base target="_top">
   </head>
   <body>
-        <p>Tutoring Schedule</p>
+        <p>Tutoring Schedule!!!!!</p>
         
          <form>
- Family Name, First Name:             <input type="text" value=" " name ="studentName"/>
-                                      <input type="button" onClick="formSubmit()" value = "Submit"></input> <p>
+         Family Name, First Name: <input type="text" value=" " name ="studentName"/>
+                                  <input type="button" onClick="formSubmit()" value = "Submit"></input> <p>
          </form>
 
 
-  <div id="output"></div>
+        <div id="output"></div>
   
   
 <script  type="text/javascript">
 
- function formSubmit() {
+//function runs on the click on the button and calls the tutor schedule function with the variable of the form.
+function formSubmit() {
  
-        
-google.script.run.withSuccessHandler(onSuccess).tutorSchedule(document.forms[0]);
+    google.script.run.withSuccessHandler(onSuccess).tutorSchedule(document.forms[0]);
 
 }
 
-
- 
-// var studentName = document.getElementById("studentName").value;
-
-
-
-
-
-
+//function runs when tutorSchedule completes and prints out the student schedule.
  function onSuccess(schedule) {
        
-        var div = document.getElementById('output');
-        div.innerHTML = 'Student Schedule = ' + schedule;
+     var div = document.getElementById('output');
+     div.innerHTML =  schedule;
             
       }
 
