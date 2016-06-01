@@ -5,7 +5,6 @@ function doGet() {
         .setSandboxMode(HtmlService.SandboxMode.IFRAME);
 }
 
-
 //this function runs when the submit button is pressed
 function tutorSchedule(form) {
   //extracts the Student name from text box
@@ -15,17 +14,7 @@ function tutorSchedule(form) {
   var sheet = SpreadsheetApp.openById('1xoqBJFsMB8vl6luNXQoQVOuJtwWUFksFxPlIYoJzlAA');
   var data = sheet.getActiveSheet().getDataRange().getValues();
   
-  
-  //loops through the data
-  for (var i = 0; i < data.length; i++) {
-        
-        //defines current line
-      var curLine = data[i];
-        
-        //defines name column
-        var name = curLine[0];
-  
-        //declaring variables
+     //declaring variables
         var tutor1;
         var tutor2;
         var tutorName1;
@@ -36,17 +25,28 @@ function tutorSchedule(form) {
         var day1;
         var room1;
         var room2;
-        var schedule;  
+        var schedule = []; 
+  
+  //loops through the data
+  for (var i = 0; i < data.length; i++) {
+        
+        //defines current line
+      var curLine = data[i];
+        
+        //defines name column
+        var name = curLine[0];
+  
+      
         
         
         //searches for student's name in the name column
         var n = nameBox.search(name);
-        var nn = name.search(nameBox);
-        Logger.log(nn);      
+     //   var nn = name.search(nameBox);
+       // Logger.log(nn);      
  
        //if name and studentName are the same than n will equal 1, if not it will equal -1
        if(n > 0){
-   
+       
        //spells out days of the week.      
        function spellDay(day){
           switch (day) {
@@ -72,7 +72,7 @@ function tutorSchedule(form) {
       
       }
          return day;   
-      }
+      };
      
      
        //function extracts time  
@@ -94,7 +94,7 @@ function tutorSchedule(form) {
            time = at.concat(time);
                     
            return time;
-        }
+        };
        
        //compiling tutor1
        if(curLine[11] === "-" ){
@@ -115,7 +115,6 @@ function tutorSchedule(form) {
          };
 
 
-
        //compiling tutor2
        if(curLine[12] === "-"){
           tutor2 = "Tutor 2 is not assigned.";
@@ -131,23 +130,23 @@ function tutorSchedule(form) {
          tutor2.toString();
          var str2 = "Tutor 2 is ";
          tutor2 = str2.concat(tutor2);
-         tutor2 = tutor2.replace (/,/g, "");
+         tutor2 = tutor2.replace(/,/g, "");
         };
-     
-       
-
       
+     
+       schedule[i] = tutor1.concat("<br>"+ tutor2);
+       };//closes if n clause
+       
     
-       schedule = tutor1.concat("<br>"+ tutor2);
-               
-       //sends the schedule back to the page
+     schedule.toString();
+   //  schedule = schedule.replace(/,/g, "");
+
+     
+    };//closes for loop
+    
+  //sends the schedule back to the page
       return schedule;
-
-       }
- 
-    }
-
-}
+};//closes function
 
 
 

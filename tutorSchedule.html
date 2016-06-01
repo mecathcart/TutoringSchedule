@@ -19,28 +19,28 @@
 
 //function runs on the click on the button and calls the tutor schedule function with the variable of the form.
 function formSubmit() {
- 
+
+
     google.script.run.withSuccessHandler(onSuccess).tutorSchedule(document.forms[0]);
 
 }
 
 //function runs when tutorSchedule completes and prints out the student schedule.
  function onSuccess(schedule) {
-       
-     var div = document.getElementById('output');
+ 
+ 
+ 
+     var div = document.createElement('div');
+            div.className = "schedule";
+
+        document.body.appendChild(div);  
+         //   schedule = schedule.toString();
+            console.log("Hello");
      div.innerHTML =  schedule;
             
       }
 
 
 </script>
-
-
-
-
-
-
-  </body>
-</html>
 
 
